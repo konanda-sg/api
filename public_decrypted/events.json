@@ -114,12 +114,6 @@
     "order_index": 74
   },
   {
-    "id": 471,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Offenbach\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2586\\/image\"},\"teamB\":{\"name\":\"Leverkusen\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2681\\/image\"},\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1PZmZlbmJhY2gtdnMtTGV2ZXJrdXNlbjE3ODQ5NzAwODAxOTM.txt\",\"time\":\"13:00:00\",\"date\":\"25\\/07\\/2026\",\"end_time\":\"15:20:00\",\"end_date\":\"25\\/07\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"LOW SERVER\"]}",
-    "links": "[{\"name\":\"LOW SERVER\",\"link\":\"http:\\/\\/193.47.62.41\\/hls\\/NVVVAQQQQ.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 75
-  },
-  {
     "id": 472,
     "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Brasileirão Betano\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/325\\/image\\/dark\"},\"teamA\":{\"name\":\"Vasco\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1974\\/image\"},\"teamB\":{\"name\":\"Mirassol\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/21982\\/image\"},\"visible\":true,\"date\":\"25\\/07\\/2026\",\"time\":\"23:30:00\",\"end_date\":\"26\\/07\\/2026\",\"end_time\":\"01:50:00\",\"links\":\"pro\\/QnJhc2lsZWlyw6NvIEJldGFuby1WYXNjby12cy1NaXJhc3NvbDE3ODQ5NzAwODAxOTM.txt\"}",
     "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
