@@ -1,0 +1,28 @@
+{
+  "id": 465,
+  "order_index": 69,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Standard Liège",
+    "logo": "https://img.sofascore.com/api/v1/team/2901/image"
+  },
+  "teamB": {
+    "name": "Juventus",
+    "logo": "https://img.sofascore.com/api/v1/team/2687/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "25/07/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1TdGFuZGFyZCBMacOoZ2UtdnMtSnV2ZW50dXMxNzg0OTcwMDgwMTkz.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 467,
+  "order_index": 71,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Leeds",
+    "logo": "https://img.sofascore.com/api/v1/team/34/image"
+  },
+  "teamB": {
+    "name": "Wrexham",
+    "logo": "https://img.sofascore.com/api/v1/team/64/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "25/07/2026",
+  "time": "23:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1MZWVkcy12cy1XcmV4aGFtMTc4NDk3MDA4MDE5Mw.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

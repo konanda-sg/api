@@ -1,0 +1,28 @@
+{
+  "id": 469,
+  "order_index": 73,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Fortuna",
+    "logo": "https://img.sofascore.com/api/v1/team/2588/image"
+  },
+  "teamB": {
+    "name": "Dortmund",
+    "logo": "https://img.sofascore.com/api/v1/team/2673/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "25/07/2026",
+  "time": "11:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Gb3J0dW5hLXZzLURvcnRtdW5kMTc4NDk3MDA4MDE5Mw.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 477,
+  "order_index": 81,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "PSV",
+    "logo": "https://img.sofascore.com/api/v1/team/2952/image"
+  },
+  "teamB": {
+    "name": "Villarreal",
+    "logo": "https://img.sofascore.com/api/v1/team/2819/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "25/07/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1QU1YtdnMtVmlsbGFycmVhbDE3ODQ5NzAwODAxOTM.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 478,
+  "order_index": 82,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+  },
+  "teamA": {
+    "name": "Santos",
+    "logo": "https://img.sofascore.com/api/v1/team/1968/image"
+  },
+  "teamB": {
+    "name": "Chapecoense",
+    "logo": "https://img.sofascore.com/api/v1/team/21845/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "25/07/2026",
+  "time": "21:30:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1TYW50b3MtdnMtQ2hhcGVjb2Vuc2UxNzg0OTcwMDgwMTkz.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

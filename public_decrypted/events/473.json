@@ -1,0 +1,28 @@
+{
+  "id": 473,
+  "order_index": 77,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Gateshead",
+    "logo": "https://img.sofascore.com/api/v1/team/157/image"
+  },
+  "teamB": {
+    "name": "Newcastle",
+    "logo": "https://img.sofascore.com/api/v1/team/39/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "25/07/2026",
+  "time": "11:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1HYXRlc2hlYWQtdnMtTmV3Y2FzdGxlMTc4NDk3MDA4MDE5Mw.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

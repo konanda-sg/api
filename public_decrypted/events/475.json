@@ -1,0 +1,28 @@
+{
+  "id": 475,
+  "order_index": 79,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Bolton",
+    "logo": "https://img.sofascore.com/api/v1/team/5/image"
+  },
+  "teamB": {
+    "name": "Everton",
+    "logo": "https://img.sofascore.com/api/v1/team/48/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "25/07/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Cb2x0b24tdnMtRXZlcnRvbjE3ODQ5NzAwODAxOTM.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
