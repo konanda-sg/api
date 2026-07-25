@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtRFMtdnMtQ0sxNzg0OTIzNzI2NTY2.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h3hkvrrmw0/out/v1/366a44234c204fc58965a9cd34dda6a1/cenc.mpd",
+      "scheme": 0,
+      "api": "8e2d573946038ceb569cb35677d49a84:0a8523dd6f9e8539184efd8cab264b21",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h3hkvrrmw0/out/v1/366a44234c204fc58965a9cd34dda6a1/cenc.mpd",
+      "scheme": 0,
+      "api": "8e2d573946038ceb569cb35677d49a84:0a8523dd6f9e8539184efd8cab264b21",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE (IND)",
+      "link": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE (BD)",
+      "link": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

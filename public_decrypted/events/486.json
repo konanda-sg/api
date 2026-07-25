@@ -1,0 +1,28 @@
+{
+  "id": 486,
+  "order_index": 90,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Pirates",
+    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
+  },
+  "teamB": {
+    "name": "Cubs",
+    "logo": "https://img.sofascore.com/api/v1/team/3627/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "25/07/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLVBpcmF0ZXMtdnMtQ3ViczE3ODQ5ODgwNDUyOTM.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

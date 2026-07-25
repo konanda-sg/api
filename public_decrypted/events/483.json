@@ -1,0 +1,28 @@
+{
+  "id": 483,
+  "order_index": 87,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Twins",
+    "logo": "https://img.sofascore.com/api/v1/team/3649/image"
+  },
+  "teamB": {
+    "name": "Athletics",
+    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "25/07/2026",
+  "time": "23:10:00",
+  "links_metadata_path": "pro/TUxCLVR3aW5zLXZzLUF0aGxldGljczE3ODQ5ODgwNDUyOTI.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
