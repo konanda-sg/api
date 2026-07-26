@@ -21,8 +21,39 @@
   "links_metadata_path": "pro/VGhlIEh1bmRyZWQtVFJULXZzLUxOUzE3ODUwNTU2OTYzODE.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mgmtkf8p8u/out/v1/9f2a323c1661489bb81efff57557a56e/cenc.mpd",
+      "scheme": 0,
+      "api": "ddf949ecd1277625c80bf1529da06c5d:9d04c9b29d5084fcf0230e893b8a724d",
+      "tokenApi": ""
+    },
+    {
+      "name": "SKY CRICKET - AQ",
+      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD - AQ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD STREAM ",
+      "link": "http://193.47.62.190/hls/LFFFQ.m3u8|referer=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SKY SPORT NZ",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
