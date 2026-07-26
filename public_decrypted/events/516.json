@@ -1,0 +1,28 @@
+{
+  "id": 516,
+  "order_index": 120,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Lazio",
+    "logo": "https://img.sofascore.com/api/v1/team/2699/image"
+  },
+  "teamB": {
+    "name": "Flaminia",
+    "logo": "https://img.sofascore.com/api/v1/team/296337/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "26/07/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1MYXppby12cy1GbGFtaW5pYTE3ODUwNTU4Mjg3NjU.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

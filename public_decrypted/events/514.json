@@ -1,0 +1,28 @@
+{
+  "id": 514,
+  "order_index": 118,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+  },
+  "teamA": {
+    "name": "Bahia",
+    "logo": "https://img.sofascore.com/api/v1/team/1955/image"
+  },
+  "teamB": {
+    "name": "Corinthians",
+    "logo": "https://img.sofascore.com/api/v1/team/1957/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "26/07/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1CYWhpYS12cy1Db3JpbnRoaWFuczE3ODUwNTU4Mjg3NjU.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

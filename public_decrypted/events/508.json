@@ -1,0 +1,28 @@
+{
+  "id": 508,
+  "order_index": 112,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Frankfurt",
+    "logo": "https://img.sofascore.com/api/v1/team/2674/image"
+  },
+  "teamB": {
+    "name": "Trabzonspor",
+    "logo": "https://img.sofascore.com/api/v1/team/3051/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "26/07/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1GcmFua2Z1cnQtdnMtVHJhYnpvbnNwb3IxNzg1MDU1ODI4NzY1.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

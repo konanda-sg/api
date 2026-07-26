@@ -1,0 +1,28 @@
+{
+  "id": 511,
+  "order_index": 115,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Ajax",
+    "logo": "https://img.sofascore.com/api/v1/team/2953/image"
+  },
+  "teamB": {
+    "name": "Burnley",
+    "logo": "https://img.sofascore.com/api/v1/team/6/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "26/07/2026",
+  "time": "12:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1BamF4LXZzLUJ1cm5sZXkxNzg1MDU1ODI4NzY1.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

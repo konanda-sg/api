@@ -1,0 +1,28 @@
+{
+  "id": 503,
+  "order_index": 107,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+  },
+  "teamA": {
+    "name": "Cruzeiro",
+    "logo": "https://img.sofascore.com/api/v1/team/1954/image"
+  },
+  "teamB": {
+    "name": "Botafogo",
+    "logo": "https://img.sofascore.com/api/v1/team/1958/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "26/07/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1DcnV6ZWlyby12cy1Cb3RhZm9nbzE3ODUwNTU4Mjg3NjU.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

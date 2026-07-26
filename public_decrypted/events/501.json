@@ -1,0 +1,28 @@
+{
+  "id": 501,
+  "order_index": 105,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Feyenoord",
+    "logo": "https://img.sofascore.com/api/v1/team/2959/image"
+  },
+  "teamB": {
+    "name": "Rayo Vallecano",
+    "logo": "https://img.sofascore.com/api/v1/team/2818/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "26/07/2026",
+  "time": "12:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1GZXllbm9vcmQtdnMtUmF5byBWYWxsZWNhbm8xNzg1MDU1ODI4NzY1.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
