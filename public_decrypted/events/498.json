@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtS1JMLXZzLUpLMTc4NTA1NTY5NjM4MQ.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wx8qp3mtj9/out/v1/e5a1e6f869a04a89a8fbf5d00b60cb72/cenc.mpd",
+      "scheme": 0,
+      "api": "2bd8f61e29e4e73e1d44ce0a55a1981e:35e79af4972a7265ad6a220740905e3b",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wx8qp3mtj9/out/v1/e5a1e6f869a04a89a8fbf5d00b60cb72/cenc.mpd",
+      "scheme": 0,
+      "api": "2bd8f61e29e4e73e1d44ce0a55a1981e:35e79af4972a7265ad6a220740905e3b",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE (IND)",
+      "link": "https://in-mc-pdlive.fancode.com/mumbai/4246728_english_hls_b1babec60422402_1ta-di_h264/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE (BD)",
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246728_english_hls_b1babec60422402_1ta-di_h264/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
