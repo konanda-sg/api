@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1SZW1vLXZzLVZpdMOzcmlhMTc4NTA1NTgyODc2NQ.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "PREMIERE BR - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd",
+      "scheme": 0,
+      "api": "561baa89676c89c1d047e1852ba01c09:a8c157826dfdf1299a329b77e2ab6a1a",
+      "tokenApi": ""
     }
   ]
 }
