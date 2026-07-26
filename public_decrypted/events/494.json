@@ -21,8 +21,25 @@
   "links_metadata_path": "pro/VGhlIEh1bmRyZWQtTVNHLXZzLUJQSDE3ODUwMDAxNzA1MzA.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1/84f2f611ffa148dda829270ccd07da32/cenc.mpd",
+      "scheme": 0,
+      "api": "da70398048e1a4f2e03db01697a4c892:f13c3a32946c57d5a4972303bc2d6472",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW - ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1/84f2f611ffa148dda829270ccd07da32/cenc.mpd",
+      "scheme": 0,
+      "api": "da70398048e1a4f2e03db01697a4c892:f13c3a32946c57d5a4972303bc2d6472",
+      "tokenApi": ""
+    },
+    {
+      "name": "FOX CRICKET HD",
+      "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
