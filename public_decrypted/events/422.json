@@ -2,51 +2,27 @@
   "id": 422,
   "order_index": 26,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "LNS",
-    "logo": "https://img.sofascore.com/api/v1/team/377175/image"
+    "name": "Pirates",
+    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
   },
   "teamB": {
-    "name": "MSG",
-    "logo": "https://img.sofascore.com/api/v1/team/377173/image"
+    "name": "Diamondbacks",
+    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "23/07/2026",
-  "time": "17:30:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtTE5TLXZzLU1TRzE3ODQ3OTU2NjQ1NjA.txt",
+  "date": "27/07/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLVBpcmF0ZXMtdnMtRGlhbW9uZGJhY2tzMTc4NTE0MTE2NDM3OA.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r9ipx2gmey/out/v1/72197084a22d4b8888925caa8b2a5129/cenc.mpd",
-      "scheme": 0,
-      "api": "53be1157d919b0313e270d1ed4186d87:44f686ac116d42983895204b978fefab",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy FHD",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/r9ipx2gmey/out/v1/72197084a22d4b8888925caa8b2a5129/cenc.mpd",
-      "scheme": 0,
-      "api": "53be1157d919b0313e270d1ed4186d87:44f686ac116d42983895204b978fefab",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

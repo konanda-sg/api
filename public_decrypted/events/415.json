@@ -2,23 +2,23 @@
   "id": 415,
   "order_index": 19,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "category": "Cricket",
+    "eventName": "The Hundred",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
   },
   "teamA": {
-    "name": "Bologna",
-    "logo": "https://img.sofascore.com/api/v1/team/2685/image"
+    "name": "SOB",
+    "logo": "https://img.sofascore.com/api/v1/team/377177/image"
   },
   "teamB": {
-    "name": "Heidenheim",
-    "logo": "https://img.sofascore.com/api/v1/team/5885/image"
+    "name": "MIL",
+    "logo": "https://img.sofascore.com/api/v1/team/377172/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "22/07/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Cb2xvZ25hLXZzLUhlaWRlbmhlaW0xNzg0NzA3Njg3ODMw.txt",
+  "date": "27/07/2026",
+  "time": "17:30:00",
+  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtU09CLXZzLU1JTDE3ODUxNDExMjM1MzU.txt",
   "links": [
     {
       "name": "Link 1",

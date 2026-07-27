@@ -3,36 +3,26 @@
   "order_index": 18,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Women's Africa Cup of Nations",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
   },
   "teamA": {
-    "name": "Tottenham",
-    "logo": "https://img.sofascore.com/api/v1/team/33/image"
+    "name": "South Africa",
+    "logo": "https://img.sofascore.com/api/v1/team/65336/image"
   },
   "teamB": {
-    "name": "MK Dons",
-    "logo": "https://img.sofascore.com/api/v1/team/4/image"
+    "name": "Tanzania",
+    "logo": "https://img.sofascore.com/api/v1/team/291680/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "22/07/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Ub3R0ZW5oYW0tdnMtTUsgRG9uczE3ODQ3MDc2ODc4MzA.txt",
+  "date": "27/07/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtU291dGggQWZyaWNhLXZzLVRhbnphbmlhMTc4NTE0MTA4NDg3Ng.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://live.vivo200.com/live/sd-1-4591078.m3u8?txSecret=5fdf116858c7c8833f054a78871bd3a9&txTime=6A60F69D|referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SD SERVER",
-      "link": "http://193.47.62.49/hls/EEEEQ.m3u8?|referer=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

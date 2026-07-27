@@ -2,23 +2,23 @@
   "id": 429,
   "order_index": 33,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Brasileirão Betano",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Corinthians",
-    "logo": "https://img.sofascore.com/api/v1/team/1957/image"
+    "name": "Rangers",
+    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
   },
   "teamB": {
-    "name": "Remo",
-    "logo": "https://img.sofascore.com/api/v1/team/2012/image"
+    "name": "Mariners",
+    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "23/07/2026",
-  "time": "22:30:00",
-  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1Db3JpbnRoaWFucy12cy1SZW1vMTc4NDc5NTk3NTU1Ng.txt",
+  "date": "27/07/2026",
+  "time": "18:35:00",
+  "links_metadata_path": "pro/TUxCLVJhbmdlcnMtdnMtTWFyaW5lcnMxNzg1MTQxMTY0Mzc4.txt",
   "links": [
     {
       "name": "Link 1",

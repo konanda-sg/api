@@ -2,51 +2,27 @@
   "id": 420,
   "order_index": 24,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "Lanka Premier League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "JK",
-    "logo": "https://img.sofascore.com/api/v1/team/453388/image"
+    "name": "Angels",
+    "logo": "https://img.sofascore.com/api/v1/team/5929/image"
   },
   "teamB": {
-    "name": "CK",
-    "logo": "https://img.sofascore.com/api/v1/team/453390/image"
+    "name": "Astros",
+    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "22/07/2026",
-  "time": "09:30:00",
-  "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtSkstdnMtQ0sxNzg0NzA3NzQ1NDQ3.txt",
+  "date": "28/07/2026",
+  "time": "01:38:00",
+  "links_metadata_path": "pro/TUxCLUFuZ2Vscy12cy1Bc3Ryb3MxNzg1MTQxMTY0Mzc4.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rszozaxgyx/out/v1/7b88be9ba3fa4afda7f65bd4daae807e/cenc.mpd",
-      "scheme": 0,
-      "api": "b5afc6d1006a956ada4fe4a4399e2c21:9319efc57e5eb5d32a12a7a66a4fb2ae",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rszozaxgyx/out/v1/7b88be9ba3fa4afda7f65bd4daae807e/cenc.mpd",
-      "scheme": 0,
-      "api": "b5afc6d1006a956ada4fe4a4399e2c21:9319efc57e5eb5d32a12a7a66a4fb2ae",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE (IND)",
-      "link": "https://in-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE (BD)",
-      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
