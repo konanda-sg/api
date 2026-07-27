@@ -3,22 +3,22 @@
   "order_index": 34,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Brasileirão Betano",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+    "eventName": "ASEAN Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
   },
   "teamA": {
-    "name": "Botafogo",
-    "logo": "https://img.sofascore.com/api/v1/team/1958/image"
+    "name": "Malaysia",
+    "logo": "https://img.sofascore.com/api/v1/team/6912/image"
   },
   "teamB": {
-    "name": "Vitória",
-    "logo": "https://img.sofascore.com/api/v1/team/1962/image"
+    "name": "Laos",
+    "logo": "https://img.sofascore.com/api/v1/team/23486/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "23/07/2026",
-  "time": "22:30:00",
-  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1Cb3RhZm9nby12cy1WaXTDs3JpYTE3ODQ3OTU5NzU1NTY.txt",
+  "date": "28/07/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLU1hbGF5c2lhLXZzLUxhb3MxNzg1MTgzODk3Mjkw.txt",
   "links": [
     {
       "name": "Link 1",

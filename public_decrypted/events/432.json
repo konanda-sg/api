@@ -2,37 +2,27 @@
   "id": 432,
   "order_index": 36,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "Live Events | Global Super League, T20",
-    "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10"
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Global Super League",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10"
+    "name": "Aston Villa",
+    "logo": "https://img.sofascore.com/api/v1/team/40/image"
   },
   "teamB": {
-    "name": "Global Super League",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10"
+    "name": "Real Sociedad",
+    "logo": "https://img.sofascore.com/api/v1/team/2824/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "23:00:00",
-  "links_metadata_path": "pro/TGl2ZSBFdmVudHMgfCBHbG9iYWwgU3VwZXIgTGVhZ3VlLCBUMjAtR2xvYmFsIFN1cGVyIExlYWd1ZS12cy1HbG9iYWwgU3VwZXIgTGVhZ3VlMTc4NDgxNDgyMTQyNQ.txt",
+  "date": "28/07/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Bc3RvbiBWaWxsYS12cy1SZWFsIFNvY2llZGFkMTc4NTE4Mzg5NzI5MA.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9l5yxzvqtw/out/v1/be0185fd0bc94e968699f64032a6e36b/cenc.mpd",
-      "scheme": 0,
-      "api": "76fb3f5e72115b8ca75b616604d65778:781171d5667f1ab16ef301d523eb3b12",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9l5yxzvqtw/out/v1/be0185fd0bc94e968699f64032a6e36b/cenc.mpd",
-      "scheme": 0,
-      "api": "76fb3f5e72115b8ca75b616604d65778:781171d5667f1ab16ef301d523eb3b12",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

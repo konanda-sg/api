@@ -2,23 +2,23 @@
   "id": 434,
   "order_index": 38,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Women's Africa Cup of Nations",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
   },
   "teamA": {
-    "name": "Astros",
-    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
+    "name": "Nigeria",
+    "logo": "https://img.sofascore.com/api/v1/team/7420/image"
   },
   "teamB": {
-    "name": "Marlins",
-    "logo": "https://img.sofascore.com/api/v1/team/3639/image"
+    "name": "Malawi",
+    "logo": "https://img.sofascore.com/api/v1/team/298498/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "23/07/2026",
-  "time": "00:10:00",
-  "links_metadata_path": "pro/TUxCLUFzdHJvcy12cy1NYXJsaW5zMTc4NDczNDk0MjE5NA.txt",
+  "date": "28/07/2026",
+  "time": "20:00:00",
+  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtTmlnZXJpYS12cy1NYWxhd2kxNzg1MTgzODk3Mjkw.txt",
   "links": [
     {
       "name": "Link 1",

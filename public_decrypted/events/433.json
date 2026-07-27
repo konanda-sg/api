@@ -7,25 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Barcelona",
-    "logo": "https://img.sofascore.com/api/v1/team/2817/image"
+    "name": "Crystal Palace",
+    "logo": "https://img.sofascore.com/api/v1/team/7/image"
   },
   "teamB": {
-    "name": "Europa",
-    "logo": "https://img.sofascore.com/api/v1/team/135672/image"
+    "name": "Lens",
+    "logo": "https://img.sofascore.com/api/v1/team/1648/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "24/07/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1CYXJjZWxvbmEtdnMtRXVyb3BhMTc4NDg3NzY0NTkwOA.txt",
+  "date": "28/07/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1DcnlzdGFsIFBhbGFjZS12cy1MZW5zMTc4NTE4Mzg5NzI5MA.txt",
   "links": [
     {
-      "name": "LaLiga TV ",
-      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-      "scheme": 0,
-      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

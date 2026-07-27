@@ -3,29 +3,26 @@
   "order_index": 40,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "ASEAN Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
   },
   "teamA": {
-    "name": "Royal Antwerp",
-    "logo": "https://img.sofascore.com/api/v1/team/2889/image"
+    "name": "Philippines",
+    "logo": "https://img.sofascore.com/api/v1/team/4791/image"
   },
   "teamB": {
-    "name": "Olympiacos",
-    "logo": "https://img.sofascore.com/api/v1/team/3245/image"
+    "name": "Myanmar",
+    "logo": "https://img.sofascore.com/api/v1/team/23484/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "24/07/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Sb3lhbCBBbnR3ZXJwLXZzLU9seW1waWFjb3MxNzg0ODc3NjQ1OTA4.txt",
+  "date": "28/07/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLVBoaWxpcHBpbmVzLXZzLU15YW5tYXIxNzg1MTgzODk3Mjkw.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.45/hls/VVVVAAAq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

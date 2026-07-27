@@ -2,23 +2,23 @@
   "id": 440,
   "order_index": 44,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "category": "Cricket",
+    "eventName": "Lanka Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark"
   },
   "teamA": {
-    "name": "Galatasaray",
-    "logo": "https://img.sofascore.com/api/v1/team/3061/image"
+    "name": "GG",
+    "logo": "https://img.sofascore.com/api/v1/team/453389/image"
   },
   "teamB": {
-    "name": "Monza",
-    "logo": "https://img.sofascore.com/api/v1/team/2729/image"
+    "name": "KRL",
+    "logo": "https://img.sofascore.com/api/v1/team/369187/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "24/07/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1HYWxhdGFzYXJheS12cy1Nb256YTE3ODQ4Nzc2NDU5MDk.txt",
+  "date": "29/07/2026",
+  "time": "09:30:00",
+  "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtR0ctdnMtS1JMMTc4NTE4MzkzOTgyNQ.txt",
   "links": [
     {
       "name": "Link 1",

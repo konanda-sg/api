@@ -7,25 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Wolfsburg",
-    "logo": "https://img.sofascore.com/api/v1/team/2524/image"
+    "name": "Chelsea",
+    "logo": "https://img.sofascore.com/api/v1/team/38/image"
   },
   "teamB": {
-    "name": "Lyon",
-    "logo": "https://img.sofascore.com/api/v1/team/1649/image"
+    "name": "Western Sydney",
+    "logo": "https://img.sofascore.com/api/v1/team/72926/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "24/07/2026",
-  "time": "12:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Xb2xmc2J1cmctdnMtTHlvbjE3ODQ4Nzc2NDU5MDg.txt",
+  "date": "28/07/2026",
+  "time": "09:45:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1DaGVsc2VhLXZzLVdlc3Rlcm4gU3lkbmV5MTc4NTE4Mzg5NzI5MA.txt",
   "links": [
     {
-      "name": "LOW QUALITY ",
-      "link": "http://193.47.62.50/hls/RRRRA.m3u8|Referer=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -7,18 +7,18 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Al-Hilal",
-    "logo": "https://img.sofascore.com/api/v1/team/21895/image"
+    "name": "Stoke",
+    "logo": "https://img.sofascore.com/api/v1/team/29/image"
   },
   "teamB": {
-    "name": "Sundowns",
-    "logo": "https://img.sofascore.com/api/v1/team/7665/image"
+    "name": "Everton",
+    "logo": "https://img.sofascore.com/api/v1/team/48/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "24/07/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1BbC1IaWxhbC12cy1TdW5kb3duczE3ODQ4Nzc2NDU5MDg.txt",
+  "date": "28/07/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1TdG9rZS12cy1FdmVydG9uMTc4NTE4Mzg5NzI5MA.txt",
   "links": [
     {
       "name": "Link 1",
