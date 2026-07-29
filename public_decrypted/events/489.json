@@ -7,18 +7,18 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "White Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
+    "name": "Dodgers",
+    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
   },
   "teamB": {
-    "name": "Astros",
-    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
+    "name": "Mariners",
+    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "23:10:00",
-  "links_metadata_path": "pro/TUxCLVdoaXRlIFNveC12cy1Bc3Ryb3MxNzg0OTg4MDQ1Mjkz.txt",
+  "date": "30/07/2026",
+  "time": "02:10:00",
+  "links_metadata_path": "pro/TUxCLURvZGdlcnMtdnMtTWFyaW5lcnMxNzg1MzM4ODM4ODM2.txt",
   "links": [
     {
       "name": "Link 1",

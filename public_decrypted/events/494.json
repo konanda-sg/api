@@ -2,44 +2,27 @@
   "id": 494,
   "order_index": 98,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "MSG",
-    "logo": "https://img.sofascore.com/api/v1/team/377173/image"
+    "name": "Tigers",
+    "logo": "https://img.sofascore.com/api/v1/team/3648/image"
   },
   "teamB": {
-    "name": "BPH",
-    "logo": "https://img.sofascore.com/api/v1/team/377174/image"
+    "name": "Orioles",
+    "logo": "https://img.sofascore.com/api/v1/team/3652/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "13:30:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtTVNHLXZzLUJQSDE3ODUwMDAxNzA1MzA.txt",
+  "date": "29/07/2026",
+  "time": "17:10:00",
+  "links_metadata_path": "pro/TUxCLVRpZ2Vycy12cy1PcmlvbGVzMTc4NTMzODgzODgzNg.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1/84f2f611ffa148dda829270ccd07da32/cenc.mpd",
-      "scheme": 0,
-      "api": "da70398048e1a4f2e03db01697a4c892:f13c3a32946c57d5a4972303bc2d6472",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1/84f2f611ffa148dda829270ccd07da32/cenc.mpd",
-      "scheme": 0,
-      "api": "da70398048e1a4f2e03db01697a4c892:f13c3a32946c57d5a4972303bc2d6472",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX CRICKET HD",
-      "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

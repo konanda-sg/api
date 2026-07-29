@@ -11,14 +11,14 @@
     "logo": "https://img.sofascore.com/api/v1/team/3653/image"
   },
   "teamB": {
-    "name": "Guardians",
-    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
+    "name": "Rangers",
+    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "22:10:00",
-  "links_metadata_path": "pro/TUxCLVJheXMtdnMtR3VhcmRpYW5zMTc4NDk4ODA0NTI5Mg.txt",
+  "date": "29/07/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLVJheXMtdnMtUmFuZ2VyczE3ODUzMzg4Mzg4MzY.txt",
   "links": [
     {
       "name": "Link 1",

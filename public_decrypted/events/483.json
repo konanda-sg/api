@@ -7,18 +7,18 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Twins",
-    "logo": "https://img.sofascore.com/api/v1/team/3649/image"
+    "name": "White Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
   },
   "teamB": {
-    "name": "Athletics",
-    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
+    "name": "Yankees",
+    "logo": "https://img.sofascore.com/api/v1/team/3654/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "23:10:00",
-  "links_metadata_path": "pro/TUxCLVR3aW5zLXZzLUF0aGxldGljczE3ODQ5ODgwNDUyOTI.txt",
+  "date": "29/07/2026",
+  "time": "23:40:00",
+  "links_metadata_path": "pro/TUxCLVdoaXRlIFNveC12cy1ZYW5rZWVzMTc4NTMzODgzODgzNg.txt",
   "links": [
     {
       "name": "Link 1",

@@ -7,18 +7,18 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Nationals",
-    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
+    "name": "Mets",
+    "logo": "https://img.sofascore.com/api/v1/team/3629/image"
   },
   "teamB": {
-    "name": "Diamondbacks",
-    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
+    "name": "Braves",
+    "logo": "https://img.sofascore.com/api/v1/team/3656/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "20:05:00",
-  "links_metadata_path": "pro/TUxCLU5hdGlvbmFscy12cy1EaWFtb25kYmFja3MxNzg0OTg4MDQ1Mjky.txt",
+  "date": "29/07/2026",
+  "time": "23:10:00",
+  "links_metadata_path": "pro/TUxCLU1ldHMtdnMtQnJhdmVzMTc4NTMzODgzODgzNg.txt",
   "links": [
     {
       "name": "Link 1",

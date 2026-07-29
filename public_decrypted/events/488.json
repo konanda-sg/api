@@ -7,18 +7,18 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
+    "name": "Athletics",
+    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
+  },
+  "teamB": {
     "name": "Red Sox",
     "logo": "https://img.sofascore.com/api/v1/team/3646/image"
   },
-  "teamB": {
-    "name": "Blue Jays",
-    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
-  },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "20:10:00",
-  "links_metadata_path": "pro/TUxCLVJlZCBTb3gtdnMtQmx1ZSBKYXlzMTc4NDk4ODA0NTI5Mw.txt",
+  "date": "30/07/2026",
+  "time": "01:40:00",
+  "links_metadata_path": "pro/TUxCLUF0aGxldGljcy12cy1SZWQgU294MTc4NTMzODgzODgzNg.txt",
   "links": [
     {
       "name": "Link 1",

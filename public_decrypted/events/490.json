@@ -7,18 +7,18 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Rangers",
-    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
+    "name": "Nationals",
+    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
   },
   "teamB": {
-    "name": "Mariners",
-    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
+    "name": "Blue Jays",
+    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "23:15:00",
-  "links_metadata_path": "pro/TUxCLVJhbmdlcnMtdnMtTWFyaW5lcnMxNzg0OTg4MDQ1Mjkz.txt",
+  "date": "29/07/2026",
+  "time": "17:05:00",
+  "links_metadata_path": "pro/TUxCLU5hdGlvbmFscy12cy1CbHVlIEpheXMxNzg1MzM4ODM4ODM2.txt",
   "links": [
     {
       "name": "Link 1",

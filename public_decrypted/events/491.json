@@ -7,18 +7,18 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Mets",
-    "logo": "https://img.sofascore.com/api/v1/team/3629/image"
+    "name": "Pirates",
+    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
   },
   "teamB": {
-    "name": "Dodgers",
-    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
+    "name": "Diamondbacks",
+    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "23:15:00",
-  "links_metadata_path": "pro/TUxCLU1ldHMtdnMtRG9kZ2VyczE3ODQ5ODgwNDUyOTM.txt",
+  "date": "29/07/2026",
+  "time": "16:35:00",
+  "links_metadata_path": "pro/TUxCLVBpcmF0ZXMtdnMtRGlhbW9uZGJhY2tzMTc4NTMzODgzODgzNg.txt",
   "links": [
     {
       "name": "Link 1",
