@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/VGhlIEh1bmRyZWQtTUlMLXZzLUxOUzE3ODUyNjU2OTczMzg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7m17xpetrf/out/v1/9c9349077535456aaea6b83bf6cf79d4/cenc.mpd",
+      "scheme": 0,
+      "api": "747fbb818421349d4646b712baaab8f0:7e06e8d6cf3a33ee75f86cf0b17cb35d",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7m17xpetrf/out/v1/9c9349077535456aaea6b83bf6cf79d4/cenc.mpd",
+      "scheme": 0,
+      "api": "747fbb818421349d4646b712baaab8f0:7e06e8d6cf3a33ee75f86cf0b17cb35d",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FOX CRICKET HD",
+      "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
