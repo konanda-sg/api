@@ -3,47 +3,40 @@
   "order_index": 68,
   "eventDetails": {
     "category": "Cricket",
-    "eventName": "Lanka Premier League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark"
+    "eventName": "ICC CWC League 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark"
   },
   "teamA": {
-    "name": "DS",
-    "logo": "https://img.sofascore.com/api/v1/team/369189/image"
+    "name": "NEP",
+    "logo": "https://img.sofascore.com/api/v1/team/187772/image"
   },
   "teamB": {
-    "name": "CK",
-    "logo": "https://img.sofascore.com/api/v1/team/453390/image"
+    "name": "NED",
+    "logo": "https://img.sofascore.com/api/v1/team/187840/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtRFMtdnMtQ0sxNzg0OTIzNzI2NTY2.txt",
+  "date": "29/07/2026",
+  "time": "09:00:00",
+  "links_metadata_path": "pro/SUNDIENXQyBMZWFndWUgMi1ORVAtdnMtTkVEMTc4NTI2NTY5NzMzOA.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h3hkvrrmw0/out/v1/366a44234c204fc58965a9cd34dda6a1/cenc.mpd",
+      "name": "ICC TV EN - AQ",
+      "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1785343593~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=8670013769c73afb21dcbc3dd8fdda95ef216ba200666f438d7804162ac39022/manifest.mpd?e=31668849940+31669076190&vcfilter=23bf0450-4b64-4b19-941b-3f1054011e3b|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&referer=https://www.icc-cricket.com/&origin=https://www.icc-cricket.com&ref=playztv.top",
       "scheme": 0,
-      "api": "8e2d573946038ceb569cb35677d49a84:0a8523dd6f9e8539184efd8cab264b21",
+      "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
       "tokenApi": ""
     },
     {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h3hkvrrmw0/out/v1/366a44234c204fc58965a9cd34dda6a1/cenc.mpd",
-      "scheme": 0,
-      "api": "8e2d573946038ceb569cb35677d49a84:0a8523dd6f9e8539184efd8cab264b21",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE (IND)",
-      "link": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
+      "name": "FANCODE IN",
+      "link": "https://livecf.fancode.com/4246708_english_hls_ea32c4304326061_1ta-di_h264/index.m3u8",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
     },
     {
-      "name": "FANCODE (BD)",
-      "link": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
+      "name": "FANCODE BD ",
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246708_english_hls_ea32c4304326061_1ta-di_h264/index.m3u8",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

@@ -7,22 +7,39 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "PSV",
-    "logo": "https://img.sofascore.com/api/v1/team/2952/image"
+    "name": "Cerezo Osaka",
+    "logo": "https://img.sofascore.com/api/v1/team/3141/image"
   },
   "teamB": {
-    "name": "Villarreal",
-    "logo": "https://img.sofascore.com/api/v1/team/2819/image"
+    "name": "Dortmund",
+    "logo": "https://img.sofascore.com/api/v1/team/2673/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1QU1YtdnMtVmlsbGFycmVhbDE3ODQ5NzAwODAxOTM.txt",
+  "date": "29/07/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1DZXJlem8gT3Nha2EtdnMtRG9ydG11bmQxNzg1MzEzMzg0ODIz.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "beiN SPORTS - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+      "scheme": 0,
+      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live ",
+      "link": "https://pul-tenm.gkykp.com/live/sd-1-4537346.m3u8?txSecret=ff575c02c5a5706fcac5d49f7ce1490d&txTime=6A6B1A10",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW QUALITY",
+      "link": "http://193.47.62.192/hls/eeeea.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

@@ -3,29 +3,26 @@
   "order_index": 76,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Brasileirão Betano",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Vasco",
-    "logo": "https://img.sofascore.com/api/v1/team/1974/image"
+    "name": "Real Betis",
+    "logo": "https://img.sofascore.com/api/v1/team/2816/image"
   },
   "teamB": {
-    "name": "Mirassol",
-    "logo": "https://img.sofascore.com/api/v1/team/21982/image"
+    "name": "Lyon",
+    "logo": "https://img.sofascore.com/api/v1/team/1649/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "23:30:00",
-  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1WYXNjby12cy1NaXJhc3NvbDE3ODQ5NzAwODAxOTM.txt",
+  "date": "29/07/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1SZWFsIEJldGlzLXZzLUx5b24xNzg1MzEzMzg0ODIz.txt",
   "links": [
     {
-      "name": "PREMIERE BR - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
-      "scheme": 0,
-      "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

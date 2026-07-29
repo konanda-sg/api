@@ -2,37 +2,27 @@
   "id": 465,
   "order_index": 69,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "category": "Cricket",
+    "eventName": "The Hundred",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
   },
   "teamA": {
-    "name": "Standard Liège",
-    "logo": "https://img.sofascore.com/api/v1/team/2901/image"
+    "name": "MIL",
+    "logo": "https://img.sofascore.com/api/v1/team/377172/image"
   },
   "teamB": {
-    "name": "Juventus",
-    "logo": "https://img.sofascore.com/api/v1/team/2687/image"
+    "name": "LNS",
+    "logo": "https://img.sofascore.com/api/v1/team/377175/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1TdGFuZGFyZCBMacOoZ2UtdnMtSnV2ZW50dXMxNzg0OTcwMDgwMTkz.txt",
+  "date": "29/07/2026",
+  "time": "17:30:00",
+  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtTUlMLXZzLUxOUzE3ODUyNjU2OTczMzg.txt",
   "links": [
     {
-      "name": "beiN SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-      "scheme": 0,
-      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX DEPORTES - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-      "scheme": 0,
-      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

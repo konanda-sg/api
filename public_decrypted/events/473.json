@@ -3,29 +3,26 @@
   "order_index": 77,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "CONMEBOL Sudamericana",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark"
   },
   "teamA": {
-    "name": "Gateshead",
-    "logo": "https://img.sofascore.com/api/v1/team/157/image"
+    "name": "Vasco",
+    "logo": "https://img.sofascore.com/api/v1/team/1974/image"
   },
   "teamB": {
-    "name": "Newcastle",
-    "logo": "https://img.sofascore.com/api/v1/team/39/image"
+    "name": "Ind. Medellín",
+    "logo": "https://img.sofascore.com/api/v1/team/6115/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "11:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1HYXRlc2hlYWQtdnMtTmV3Y2FzdGxlMTc4NDk3MDA4MDE5Mw.txt",
+  "date": "29/07/2026",
+  "time": "22:00:00",
+  "links_metadata_path": "pro/Q09OTUVCT0wgU3VkYW1lcmljYW5hLVZhc2NvLXZzLUluZC4gTWVkZWxsw61uMTc4NTMxMzM4NDgyMw.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.41/hls/EEGRGRQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -7,25 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Wehen",
-    "logo": "https://img.sofascore.com/api/v1/team/2597/image"
+    "name": "Atl. Madrid",
+    "logo": "https://img.sofascore.com/api/v1/team/2836/image"
   },
   "teamB": {
-    "name": "Bayern",
-    "logo": "https://img.sofascore.com/api/v1/team/2672/image"
+    "name": "Getafe",
+    "logo": "https://img.sofascore.com/api/v1/team/2859/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "13:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1XZWhlbi12cy1CYXllcm4xNzg0OTcwMDgwMTkz.txt",
+  "date": "29/07/2026",
+  "time": "15:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1BdGwuIE1hZHJpZC12cy1HZXRhZmUxNzg1MzEzMzg0ODIz.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.191/hls/ZOOOQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
