@@ -2,23 +2,23 @@
   "id": 438,
   "order_index": 42,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Women's Africa Cup of Nations",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
+    "category": "Cricket",
+    "eventName": "The Hundred Women",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
   },
   "teamA": {
-    "name": "Zambia",
-    "logo": "https://img.sofascore.com/api/v1/team/288601/image"
+    "name": "MSG-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377201/image"
   },
   "teamB": {
-    "name": "Egypt",
-    "logo": "https://img.sofascore.com/api/v1/team/132930/image"
+    "name": "TRT-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377204/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "28/07/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtWmFtYmlhLXZzLUVneXB0MTc4NTE4Mzg5NzI5MA.txt",
+  "date": "31/07/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tTVNHLVctdnMtVFJULVcxNzg1NDQ0NDI2Mzk1.txt",
   "links": [
     {
       "name": "Link 1",

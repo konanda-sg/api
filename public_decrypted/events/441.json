@@ -7,18 +7,18 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
   },
   "teamA": {
-    "name": "SL-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377206/image"
+    "name": "LNS-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377203/image"
   },
   "teamB": {
-    "name": "MSG-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377201/image"
+    "name": "SOB-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377205/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "28/07/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tU0wtVy12cy1NU0ctVzE3ODUxODM5Mzk4MjU.txt",
+  "date": "01/08/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tTE5TLVctdnMtU09CLVcxNzg1NDQ0NDI2Mzk1.txt",
   "links": [
     {
       "name": "Link 1",
