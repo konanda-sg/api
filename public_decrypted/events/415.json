@@ -2,58 +2,27 @@
   "id": 415,
   "order_index": 19,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
+    "category": "Football",
+    "eventName": "UEFA Europa League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark"
   },
   "teamA": {
-    "name": "SOB",
-    "logo": "https://img.sofascore.com/api/v1/team/377177/image"
+    "name": "PAOK",
+    "logo": "https://img.sofascore.com/api/v1/team/3251/image"
   },
   "teamB": {
-    "name": "MIL",
-    "logo": "https://img.sofascore.com/api/v1/team/377172/image"
+    "name": "Dynamo Kyiv",
+    "logo": "https://img.sofascore.com/api/v1/team/3305/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/07/2026",
-  "time": "17:30:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtU09CLXZzLU1JTDE3ODUxNDExMjM1MzU.txt",
+  "date": "30/07/2026",
+  "time": "17:45:00",
+  "links_metadata_path": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLVBBT0stdnMtRHluYW1vIEt5aXYxNzg1Mzk4MDQ5OTM5.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/krb4ywqglt/out/v1/0f91f1c928fe492ca9de3a2106b38969/cenc.mpd",
-      "scheme": 0,
-      "api": "79f7c04fd3fa5f3cdb7671b440f4ca97:85ecfe2836a55f14ec3c8c1d9486c44e",
-      "tokenApi": ""
-    },
-    {
-      "name": "CRICKET - AQ",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/krb4ywqglt/out/v1/0f91f1c928fe492ca9de3a2106b38969/cenc.mpd",
-      "scheme": 0,
-      "api": "79f7c04fd3fa5f3cdb7671b440f4ca97:85ecfe2836a55f14ec3c8c1d9486c44e",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD - AQ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX CRICKET HD",
-      "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -2,30 +2,27 @@
   "id": 425,
   "order_index": 29,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "The Hundred",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
   },
   "teamA": {
-    "name": "Reds",
-    "logo": "https://img.sofascore.com/api/v1/team/3633/image"
+    "name": "SOB",
+    "logo": "https://img.sofascore.com/api/v1/team/377177/image"
   },
   "teamB": {
-    "name": "Guardians",
-    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
+    "name": "BPH",
+    "logo": "https://img.sofascore.com/api/v1/team/377174/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/07/2026",
-  "time": "23:10:00",
-  "links_metadata_path": "pro/TUxCLVJlZHMtdnMtR3VhcmRpYW5zMTc4NTE0MTE2NDM3OA.txt",
+  "date": "30/07/2026",
+  "time": "17:30:00",
+  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtU09CLXZzLUJQSDE3ODU0MDAzODE1NTg.txt",
   "links": [
     {
-      "name": "HD SERVER ",
-      "link": "https://edgestream3.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

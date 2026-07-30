@@ -3,36 +3,26 @@
   "order_index": 18,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Women's Africa Cup of Nations",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "South Africa",
-    "logo": "https://img.sofascore.com/api/v1/team/65336/image"
+    "name": "Bournemouth",
+    "logo": "https://img.sofascore.com/api/v1/team/60/image"
   },
   "teamB": {
-    "name": "Tanzania",
-    "logo": "https://img.sofascore.com/api/v1/team/291680/image"
+    "name": "Augsburg",
+    "logo": "https://img.sofascore.com/api/v1/team/2600/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/07/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtU291dGggQWZyaWNhLXZzLVRhbnphbmlhMTc4NTE0MTA4NDg3Ng.txt",
+  "date": "30/07/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Cb3VybmVtb3V0aC12cy1BdWdzYnVyZzE3ODUzOTgwNDk5Mzk.txt",
   "links": [
     {
-      "name": "beiN SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-      "scheme": 0,
-      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.194/hls/AOOOO.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

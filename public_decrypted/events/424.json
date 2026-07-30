@@ -2,30 +2,27 @@
   "id": 424,
   "order_index": 28,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "Asian Legends League T20",
+    "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10"
   },
   "teamA": {
-    "name": "Nationals",
-    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
+    "name": "Asian Legends League",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10"
   },
   "teamB": {
-    "name": "Blue Jays",
-    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
+    "name": "Asian Legends League",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/07/2026",
-  "time": "22:45:00",
-  "links_metadata_path": "pro/TUxCLU5hdGlvbmFscy12cy1CbHVlIEpheXMxNzg1MTQxMTY0Mzc4.txt",
+  "date": "30/07/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/QXNpYW4gTGVnZW5kcyBMZWFndWUgVDIwLUFzaWFuIExlZ2VuZHMgTGVhZ3VlLXZzLUFzaWFuIExlZ2VuZHMgTGVhZ3VlMTc4NTQwMDMyMzI4MQ.txt",
   "links": [
     {
-      "name": "HD SERVER ",
-      "link": "https://edgestream1.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "a"
     }
   ]
 }

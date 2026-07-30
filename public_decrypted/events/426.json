@@ -2,30 +2,27 @@
   "id": 426,
   "order_index": 30,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "The Hundred Women",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
   },
   "teamA": {
-    "name": "Giants",
-    "logo": "https://img.sofascore.com/api/v1/team/3634/image"
+    "name": "SOB-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377205/image"
   },
   "teamB": {
-    "name": "Brewers",
-    "logo": "https://img.sofascore.com/api/v1/team/3630/image"
+    "name": "BPH-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377202/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "28/07/2026",
-  "time": "01:45:00",
-  "links_metadata_path": "pro/TUxCLUdpYW50cy12cy1CcmV3ZXJzMTc4NTE0MTE2NDM3OA.txt",
+  "date": "30/07/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tU09CLVctdnMtQlBILVcxNzg1NDAwMzgxNTU5.txt",
   "links": [
     {
-      "name": "HD SERVER",
-      "link": "https://edgestream3.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

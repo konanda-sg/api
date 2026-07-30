@@ -2,30 +2,27 @@
   "id": 422,
   "order_index": 26,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Women's Africa Cup of Nations",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
   },
   "teamA": {
-    "name": "Pirates",
-    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
+    "name": "Senegal",
+    "logo": "https://img.sofascore.com/api/v1/team/316945/image"
   },
   "teamB": {
-    "name": "Diamondbacks",
-    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
+    "name": "Kenya",
+    "logo": "https://img.sofascore.com/api/v1/team/237894/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/07/2026",
-  "time": "22:40:00",
-  "links_metadata_path": "pro/TUxCLVBpcmF0ZXMtdnMtRGlhbW9uZGJhY2tzMTc4NTE0MTE2NDM3OA.txt",
+  "date": "30/07/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtU2VuZWdhbC12cy1LZW55YTE3ODUzOTgwNDk5NDA.txt",
   "links": [
     {
-      "name": "HD SERVER ",
-      "link": "https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

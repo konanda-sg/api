@@ -2,23 +2,23 @@
   "id": 436,
   "order_index": 40,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "ASEAN Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Philippines",
-    "logo": "https://img.sofascore.com/api/v1/team/4791/image"
+    "name": "Rays",
+    "logo": "https://img.sofascore.com/api/v1/team/3653/image"
   },
   "teamB": {
-    "name": "Myanmar",
-    "logo": "https://img.sofascore.com/api/v1/team/23484/image"
+    "name": "Rangers",
+    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "28/07/2026",
-  "time": "10:00:00",
-  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLVBoaWxpcHBpbmVzLXZzLU15YW5tYXIxNzg1MTgzODk3Mjkw.txt",
+  "date": "30/07/2026",
+  "time": "16:10:00",
+  "links_metadata_path": "pro/TUxCLVJheXMtdnMtUmFuZ2VyczE3ODU0MDA0NTQ3Nzk.txt",
   "links": [
     {
       "name": "Link 1",

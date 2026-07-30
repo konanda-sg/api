@@ -2,23 +2,23 @@
   "id": 431,
   "order_index": 35,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Real Madrid",
-    "logo": "https://img.sofascore.com/api/v1/team/2829/image"
+    "name": "Dodgers",
+    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
   },
   "teamB": {
-    "name": "Leganés",
-    "logo": "https://img.sofascore.com/api/v1/team/2845/image"
+    "name": "Mariners",
+    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "28/07/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1SZWFsIE1hZHJpZC12cy1MZWdhbsOpczE3ODUxODM4OTcyOTA.txt",
+  "date": "31/07/2026",
+  "time": "02:10:00",
+  "links_metadata_path": "pro/TUxCLURvZGdlcnMtdnMtTWFyaW5lcnMxNzg1NDAwNDU0Nzc5.txt",
   "links": [
     {
       "name": "Link 1",

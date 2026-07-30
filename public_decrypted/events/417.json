@@ -2,30 +2,27 @@
   "id": 417,
   "order_index": 21,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "ICC CWC League 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark"
+    "category": "Football",
+    "eventName": "UEFA Conference League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
   },
   "teamA": {
-    "name": "NAM",
-    "logo": "https://img.sofascore.com/api/v1/team/199275/image"
+    "name": "Ajax",
+    "logo": "https://img.sofascore.com/api/v1/team/2953/image"
   },
   "teamB": {
-    "name": "NEP",
-    "logo": "https://img.sofascore.com/api/v1/team/187772/image"
+    "name": "Vojvodina",
+    "logo": "https://img.sofascore.com/api/v1/team/5150/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/07/2026",
-  "time": "09:00:00",
-  "links_metadata_path": "pro/SUNDIENXQyBMZWFndWUgMi1OQU0tdnMtTkVQMTc4NTE0MTEyMzUzNg.txt",
+  "date": "30/07/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1BamF4LXZzLVZvanZvZGluYTE3ODUzOTgwNDk5Mzk.txt",
   "links": [
     {
-      "name": "ICC TV ",
-      "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1785170737~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=268ce2f63a100df4424a63737022022c80f8fe84fe241b8bbbeedf6cf976d975/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
