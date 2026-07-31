@@ -7,18 +7,18 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Real Betis",
-    "logo": "https://img.sofascore.com/api/v1/team/2816/image"
+    "name": "Oxford Utd",
+    "logo": "https://img.sofascore.com/api/v1/team/95/image"
   },
   "teamB": {
-    "name": "Lyon",
-    "logo": "https://img.sofascore.com/api/v1/team/1649/image"
+    "name": "Ipswich",
+    "logo": "https://img.sofascore.com/api/v1/team/32/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/07/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1SZWFsIEJldGlzLXZzLUx5b24xNzg1MzEzMzg0ODIz.txt",
+  "date": "01/08/2026",
+  "time": "11:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1PeGZvcmQgVXRkLXZzLUlwc3dpY2gxNzg1NTI2NjYxMjEy.txt",
   "links": [
     {
       "name": "Link 1",

@@ -3,22 +3,22 @@
   "order_index": 78,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "ASEAN Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
   },
   "teamA": {
-    "name": "Atl. Madrid",
-    "logo": "https://img.sofascore.com/api/v1/team/2836/image"
+    "name": "Laos",
+    "logo": "https://img.sofascore.com/api/v1/team/23486/image"
   },
   "teamB": {
-    "name": "Getafe",
-    "logo": "https://img.sofascore.com/api/v1/team/2859/image"
+    "name": "Philippines",
+    "logo": "https://img.sofascore.com/api/v1/team/4791/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/07/2026",
-  "time": "15:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1BdGwuIE1hZHJpZC12cy1HZXRhZmUxNzg1MzEzMzg0ODIz.txt",
+  "date": "01/08/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLUxhb3MtdnMtUGhpbGlwcGluZXMxNzg1NTI2NjYxMjEy.txt",
   "links": [
     {
       "name": "Link 1",

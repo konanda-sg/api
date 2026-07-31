@@ -2,51 +2,27 @@
   "id": 468,
   "order_index": 72,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred Women",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "MIL-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377200/image"
+    "name": "Tokyo",
+    "logo": "https://img.sofascore.com/api/v1/team/3147/image"
   },
   "teamB": {
-    "name": "LNS-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377203/image"
+    "name": "Dortmund",
+    "logo": "https://img.sofascore.com/api/v1/team/2673/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/07/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tTUlMLVctdnMtTE5TLVcxNzg1MjY1Njk3MzM4.txt",
+  "date": "01/08/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Ub2t5by12cy1Eb3J0bXVuZDE3ODU1MjY2NjEyMTI.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zgpswvdaoe/out/v1/0bd8dedeae694dc99fe580f034af7e93/cenc.mpd",
-      "scheme": 0,
-      "api": "b287bc41366b6728bff53fc4e586b5d4:3b6622efc525d86e9fe69f2fb6f54367",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zgpswvdaoe/out/v1/0bd8dedeae694dc99fe580f034af7e93/cenc.mpd",
-      "scheme": 0,
-      "api": "b287bc41366b6728bff53fc4e586b5d4:3b6622efc525d86e9fe69f2fb6f54367",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD - AQ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.192/hls/eeeeaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

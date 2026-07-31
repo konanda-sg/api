@@ -3,22 +3,22 @@
   "order_index": 75,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Brasileirão Betano",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Internacional",
-    "logo": "https://img.sofascore.com/api/v1/team/1966/image"
+    "name": "Real Betis",
+    "logo": "https://img.sofascore.com/api/v1/team/2816/image"
   },
   "teamB": {
-    "name": "Flamengo",
-    "logo": "https://img.sofascore.com/api/v1/team/5981/image"
+    "name": "Almería",
+    "logo": "https://img.sofascore.com/api/v1/team/2858/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/07/2026",
-  "time": "22:30:00",
-  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1JbnRlcm5hY2lvbmFsLXZzLUZsYW1lbmdvMTc4NTMxMzM4NDgyMw.txt",
+  "date": "01/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1SZWFsIEJldGlzLXZzLUFsbWVyw61hMTc4NTUyNjY2MTIxMg.txt",
   "links": [
     {
       "name": "Link 1",

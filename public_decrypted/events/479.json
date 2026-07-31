@@ -3,36 +3,26 @@
   "order_index": 83,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "ASEAN Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
   },
   "teamA": {
-    "name": "Leverkusen",
-    "logo": "https://img.sofascore.com/api/v1/team/2681/image"
+    "name": "Thailand",
+    "logo": "https://img.sofascore.com/api/v1/team/4730/image"
   },
   "teamB": {
-    "name": "Genk",
-    "logo": "https://img.sofascore.com/api/v1/team/2890/image"
+    "name": "Malaysia",
+    "logo": "https://img.sofascore.com/api/v1/team/6912/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/07/2026",
+  "date": "01/08/2026",
   "time": "13:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1MZXZlcmt1c2VuLXZzLUdlbmsxNzg1MzEzMzg0ODI0.txt",
+  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLVRoYWlsYW5kLXZzLU1hbGF5c2lhMTc4NTUyNjY2MTIxMg.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://pul-tenm.gkykp.com/live/sd-1-4596075.m3u8?txSecret=432865de6def7954df48543307e6fcff&txTime=6A6B3720",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.192/hls/eeeeaaaaAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

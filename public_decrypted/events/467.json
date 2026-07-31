@@ -2,58 +2,27 @@
   "id": 467,
   "order_index": 71,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "Lanka Premier League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark"
+    "category": "Football",
+    "eventName": "MLS",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark"
   },
   "teamA": {
-    "name": "CK",
-    "logo": "https://img.sofascore.com/api/v1/team/453390/image"
+    "name": "Inter Miami",
+    "logo": "https://img.sofascore.com/api/v1/team/337602/image"
   },
   "teamB": {
-    "name": "DS",
-    "logo": "https://img.sofascore.com/api/v1/team/369189/image"
+    "name": "Columbus",
+    "logo": "https://img.sofascore.com/api/v1/team/2504/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/07/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtQ0stdnMtRFMxNzg1MjY1Njk3MzM4.txt",
+  "date": "01/08/2026",
+  "time": "23:30:00",
+  "links_metadata_path": "pro/TUxTLUludGVyIE1pYW1pLXZzLUNvbHVtYnVzMTc4NTUyNjY2MTIxMg.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tovclkroyw/out/v1/fd7167e06a244fca9725398ea7a6fe83/cenc.mpd",
-      "scheme": 0,
-      "api": "efd939e5c984ade76f4edd017049d394:ba6c38b2763241f511b9c4c3af9a486c",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tovclkroyw/out/v1/fd7167e06a244fca9725398ea7a6fe83/cenc.mpd",
-      "scheme": 0,
-      "api": "efd939e5c984ade76f4edd017049d394:ba6c38b2763241f511b9c4c3af9a486c",
-      "tokenApi": ""
-    },
-    {
-      "name": "T SPORTS HD",
-      "link": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE - IN",
-      "link": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE - BD",
-      "link": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -7,39 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Tottenham",
-    "logo": "https://img.sofascore.com/api/v1/team/33/image"
+    "name": "Girona",
+    "logo": "https://img.sofascore.com/api/v1/team/24264/image"
   },
   "teamB": {
-    "name": "Sydney FC",
-    "logo": "https://img.sofascore.com/api/v1/team/5971/image"
+    "name": "Arsenal",
+    "logo": "https://img.sofascore.com/api/v1/team/42/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/07/2026",
-  "time": "09:45:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Ub3R0ZW5oYW0tdnMtU3lkbmV5IEZDMTc4NTMxMzM4NDgyMw.txt",
+  "date": "01/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1HaXJvbmEtdnMtQXJzZW5hbDE3ODU1MjY2NjEyMTI.txt",
   "links": [
     {
-      "name": "CBS GOLAZO - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-      "scheme": 0,
-      "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy TV ",
-      "link": "https://live2.jxa76.com/live/sd-6Mwe5Hawq8713w4Ypj.m3u8?txSecret=5ea000a5461c26ff1802f6079819367d&txTime=19FAE86E281",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.191/hls/jjjj.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

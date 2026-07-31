@@ -7,18 +7,18 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Hoffenheim",
-    "logo": "https://img.sofascore.com/api/v1/team/2569/image"
+    "name": "Magdeburg",
+    "logo": "https://img.sofascore.com/api/v1/team/2591/image"
   },
   "teamB": {
-    "name": "Kiel",
-    "logo": "https://img.sofascore.com/api/v1/team/2573/image"
+    "name": "West Ham",
+    "logo": "https://img.sofascore.com/api/v1/team/37/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/07/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Ib2ZmZW5oZWltLXZzLUtpZWwxNzg1MzEzMzg0ODIz.txt",
+  "date": "01/08/2026",
+  "time": "12:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1NYWdkZWJ1cmctdnMtV2VzdCBIYW0xNzg1NTI2NjYxMjEy.txt",
   "links": [
     {
       "name": "Link 1",

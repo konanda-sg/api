@@ -7,18 +7,18 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Ipswich",
-    "logo": "https://img.sofascore.com/api/v1/team/32/image"
+    "name": "Cardiff",
+    "logo": "https://img.sofascore.com/api/v1/team/61/image"
   },
   "teamB": {
-    "name": "Osasuna",
-    "logo": "https://img.sofascore.com/api/v1/team/2820/image"
+    "name": "Roma",
+    "logo": "https://img.sofascore.com/api/v1/team/2702/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/07/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1JcHN3aWNoLXZzLU9zYXN1bmExNzg1MzEzMzg0ODI0.txt",
+  "date": "01/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1DYXJkaWZmLXZzLVJvbWExNzg1NTI2NjYxMjEy.txt",
   "links": [
     {
       "name": "Link 1",
