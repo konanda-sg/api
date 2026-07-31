@@ -73,15 +73,9 @@
   },
   {
     "id": 443,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Women's Africa Cup of Nations\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/9558\\/image\\/dark\"},\"teamA\":{\"name\":\"South Africa\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/65336\\/image\"},\"teamB\":{\"name\":\"Côte d'Ivoire\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/186328\\/image\"},\"visible\":true,\"date\":\"31\\/07\\/2026\",\"time\":\"17:00:00\",\"end_date\":\"31\\/07\\/2026\",\"end_time\":\"19:20:00\",\"links\":\"pro\\/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtU291dGggQWZyaWNhLXZzLUPDtHRlIGQnSXZvaXJlMTc4NTQ4MTM5MDUxMA.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Women's Africa Cup of Nations\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/9558\\/image\\/dark\"},\"teamA\":{\"name\":\"South Africa\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/65336\\/image\"},\"teamB\":{\"name\":\"Côte d'Ivoire\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/186328\\/image\"},\"links\":\"pro\\/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtU291dGggQWZyaWNhLXZzLUPDtHRlIGQnSXZvaXJlMTc4NTQ4MTM5MDUxMA.txt\",\"time\":\"17:00:00\",\"date\":\"31\\/07\\/2026\",\"end_time\":\"19:20:00\",\"end_date\":\"31\\/07\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Cricfy TV \",\"LOW QUALITY\"]}",
+    "links": "[{\"name\":\"Cricfy TV \",\"link\":\"https:\\/\\/prod-fastly-eu-west-1.video.pscp.tv\\/Transcoding\\/v1\\/hls\\/11ryyNDnxiVYXrfvQQ5zcJOMA5L52hHKszUH1x8nGi9qvTSds3xYzuNH11u51m5i8qc1mmUqTd9dE5WoyBk6iw\\/transcode\\/eu-west-1\\/periscope-replay-direct-prod-eu-west-1-public\\/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE\\/dynamic_delta.m3u8?type=live\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.191\\/hls\\/PCCCA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 47
-  },
-  {
-    "id": 444,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Sassuolo\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2793\\/image\"},\"teamB\":{\"name\":\"Folgore Caratese\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/117230\\/image\"},\"visible\":true,\"date\":\"31\\/07\\/2026\",\"time\":\"17:00:00\",\"end_date\":\"31\\/07\\/2026\",\"end_time\":\"19:20:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1TYXNzdW9sby12cy1Gb2xnb3JlIENhcmF0ZXNlMTc4NTQ4MTM5MDUxMA.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
-    "order_index": 48
   },
   {
     "id": 445,
@@ -97,15 +91,9 @@
   },
   {
     "id": 448,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Juventus\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2687\\/image\"},\"teamB\":{\"name\":\"Nice\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1661\\/image\"},\"visible\":true,\"date\":\"31\\/07\\/2026\",\"time\":\"16:00:00\",\"end_date\":\"31\\/07\\/2026\",\"end_time\":\"18:20:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1KdXZlbnR1cy12cy1OaWNlMTc4NTQ4MTM5MDUxMA.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Juventus\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2687\\/image\"},\"teamB\":{\"name\":\"Nice\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1661\\/image\"},\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1KdXZlbnR1cy12cy1OaWNlMTc4NTQ4MTM5MDUxMA.txt\",\"time\":\"16:00:00\",\"date\":\"31\\/07\\/2026\",\"end_time\":\"18:20:00\",\"end_date\":\"31\\/07\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Cricfy FHD \",\"HD QUALITY\",\"Cricfy Live \",\"HD SERVER\",\"LOW QUALITY\"]}",
+    "links": "[{\"name\":\"Cricfy FHD \",\"link\":\"https:\\/\\/tedesco.paradilux.store\\/juve.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"HD QUALITY\",\"link\":\"https:\\/\\/hls.live123.fans\\/live\\/4600874.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"Cricfy Live \",\"link\":\"https:\\/\\/www.rtmpcdn.com\\/live\\/bdad8739-3e36-43e3-9a4c-76baefe0c0f5.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"HD SERVER\",\"link\":\"https:\\/\\/edgestream1.pro\\/hls\\/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/134.0.0.0 Safari\\/537.36 Edg\\/134.0.0.0&Referer=https:\\/\\/streame.center&Origin=https:\\/\\/streame.center\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.190\\/hls\\/GRRRQQQQ.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 52
-  },
-  {
-    "id": 450,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"ASEAN Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/602\\/image\\/dark\"},\"teamA\":{\"name\":\"Vietnam\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/7050\\/image\"},\"teamB\":{\"name\":\"Singapore\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/4738\\/image\"},\"links\":\"pro\\/QVNFQU4gQ2hhbXBpb25zaGlwLVZpZXRuYW0tdnMtU2luZ2Fwb3JlMTc4NTQ4MTM5MDUxMA.txt\",\"time\":\"13:00:00\",\"date\":\"31\\/07\\/2026\",\"end_time\":\"15:20:00\",\"end_date\":\"31\\/07\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"LOW QUALITY\"]}",
-    "links": "[{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.190\\/hls\\/bbbbff.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 54
   },
   {
     "id": 451,

@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtU291dGggQWZyaWNhLXZzLUPDtHRlIGQnSXZvaXJlMTc4NTQ4MTM5MDUxMA.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy TV ",
+      "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/11ryyNDnxiVYXrfvQQ5zcJOMA5L52hHKszUH1x8nGi9qvTSds3xYzuNH11u51m5i8qc1mmUqTd9dE5WoyBk6iw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW QUALITY",
+      "link": "http://193.47.62.191/hls/PCCCA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
