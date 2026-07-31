@@ -21,8 +21,25 @@
   "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLUVhc3QgVGltb3ItdnMtSW5kb25lc2lhMTc4NTQ4MTM5MDUxMA.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "M LIVE - AQ",
+      "link": "https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd",
+      "scheme": 0,
+      "api": "91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD STREAM ",
+      "link": "https://live1.streambylivepulse.com/live/channel5/playlist.m3u8?wsSecret=572425f5b6e43867df9c973b7894f658&wsABSTime=1785529713|Referer=https://soco.scorecastbytextz.com/&Origin=https://soco.scorecastbytextz.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD STREAM ",
+      "link": "http://193.47.62.190/hls/VVVV.m3u8|referer=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
