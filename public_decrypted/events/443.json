@@ -2,58 +2,27 @@
   "id": 443,
   "order_index": 47,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred Women",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
+    "category": "Football",
+    "eventName": "Women's Africa Cup of Nations",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
   },
   "teamA": {
-    "name": "WEF-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377207/image"
+    "name": "South Africa",
+    "logo": "https://img.sofascore.com/api/v1/team/65336/image"
   },
   "teamB": {
-    "name": "TRT-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377204/image"
+    "name": "Côte d'Ivoire",
+    "logo": "https://img.sofascore.com/api/v1/team/186328/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/07/2026",
-  "time": "10:30:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tV0VGLVctdnMtVFJULVcxNzg1MTgzOTM5ODI1.txt",
+  "date": "31/07/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtU291dGggQWZyaWNhLXZzLUPDtHRlIGQnSXZvaXJlMTc4NTQ4MTM5MDUxMA.txt",
   "links": [
     {
-      "name": "WILLOW - AQ ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bdz0zcfgfl/out/v1/92bd22cc54584ac7aacfaabc0ffb8993/cenc.mpd",
-      "scheme": 0,
-      "api": "7edd310f2503018cc990f7d1341cf50a:18b71cc2e91b3b3b992d2758142c687b",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy TV FHD ",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bdz0zcfgfl/out/v1/92bd22cc54584ac7aacfaabc0ffb8993/cenc.mpd",
-      "scheme": 0,
-      "api": "7edd310f2503018cc990f7d1341cf50a:18b71cc2e91b3b3b992d2758142c687b",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX CRICKET HD",
-      "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

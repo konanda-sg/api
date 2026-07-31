@@ -2,37 +2,27 @@
   "id": 460,
   "order_index": 64,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred Women",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "WEF-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377207/image"
+    "name": "Cubs",
+    "logo": "https://img.sofascore.com/api/v1/team/3627/image"
   },
   "teamB": {
-    "name": "MIL-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377200/image"
+    "name": "Yankees",
+    "logo": "https://img.sofascore.com/api/v1/team/3654/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "13:30:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tV0VGLVctdnMtTUlMLVcxNzg0OTE3NTUyNDYz.txt",
+  "date": "31/07/2026",
+  "time": "18:20:00",
+  "links_metadata_path": "pro/TUxCLUN1YnMtdnMtWWFua2VlczE3ODU0ODE0NDc4NDg.txt",
   "links": [
     {
-      "name": "WILLOW - AQ ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gnhats7ojb/out/v1/6e34f19f23e6411995768e904faf711e/cenc.mpd",
-      "scheme": 0,
-      "api": "4e9ab91818b6bb213386873c9a57106e:a9820f0b6184cdceabefee43aa1621fa",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gnhats7ojb/out/v1/6e34f19f23e6411995768e904faf711e/cenc.mpd",
-      "scheme": 0,
-      "api": "4e9ab91818b6bb213386873c9a57106e:a9820f0b6184cdceabefee43aa1621fa",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

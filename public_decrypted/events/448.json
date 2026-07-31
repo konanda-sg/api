@@ -2,37 +2,27 @@
   "id": 448,
   "order_index": 52,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Rangers",
-    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
+    "name": "Juventus",
+    "logo": "https://img.sofascore.com/api/v1/team/2687/image"
   },
   "teamB": {
-    "name": "Mariners",
-    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
+    "name": "Nice",
+    "logo": "https://img.sofascore.com/api/v1/team/1661/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "00:05:00",
-  "links_metadata_path": "pro/TUxCLVJhbmdlcnMtdnMtTWFyaW5lcnMxNzg0ODc3NzAwOTY4.txt",
+  "date": "31/07/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1KdXZlbnR1cy12cy1OaWNlMTc4NTQ4MTM5MDUxMA.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream3.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live ",
-      "link": "https://instreams.pro/live/MLB12/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB12&Origin=https://instream.click/jwp2-us.php?stream=MLB12",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

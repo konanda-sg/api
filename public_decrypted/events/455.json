@@ -7,32 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Marlins",
-    "logo": "https://img.sofascore.com/api/v1/team/3639/image"
+    "name": "Rockies",
+    "logo": "https://img.sofascore.com/api/v1/team/3628/image"
   },
   "teamB": {
-    "name": "Padres",
-    "logo": "https://img.sofascore.com/api/v1/team/3636/image"
+    "name": "Royals",
+    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "24/07/2026",
-  "time": "23:10:00",
-  "links_metadata_path": "pro/TUxCLU1hcmxpbnMtdnMtUGFkcmVzMTc4NDg3NzcwMDk2OA.txt",
+  "date": "01/08/2026",
+  "time": "00:40:00",
+  "links_metadata_path": "pro/TUxCLVJvY2tpZXMtdnMtUm95YWxzMTc4NTQ4MTQ0Nzg0Nw.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream2.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live ",
-      "link": "https://instreams.pro/live/MLB9/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB9&Origin=https://instream.click/jwp2-us.php?stream=MLB9",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

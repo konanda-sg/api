@@ -2,51 +2,27 @@
   "id": 461,
   "order_index": 65,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "Lanka Premier League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "GG",
-    "logo": "https://img.sofascore.com/api/v1/team/453389/image"
+    "name": "Astros",
+    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
   },
   "teamB": {
-    "name": "KRL",
-    "logo": "https://img.sofascore.com/api/v1/team/369187/image"
+    "name": "Rangers",
+    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "09:30:00",
-  "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtR0ctdnMtS1JMMTc4NDkxNzU1MjQ2Mw.txt",
+  "date": "01/08/2026",
+  "time": "00:15:00",
+  "links_metadata_path": "pro/TUxCLUFzdHJvcy12cy1SYW5nZXJzMTc4NTQ4MTQ0Nzg0OA.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qvkjfe6emg/out/v1/25e0a69b40234db6bff12709d9579a5e/cenc.mpd",
-      "scheme": 0,
-      "api": "9b1bb3a13c863e3ab87cb4f64a79c27b:a0b17a381671bda142ede1fc75f870b2",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qvkjfe6emg/out/v1/25e0a69b40234db6bff12709d9579a5e/cenc.mpd",
-      "scheme": 0,
-      "api": "9b1bb3a13c863e3ab87cb4f64a79c27b:a0b17a381671bda142ede1fc75f870b2",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE (IND)",
-      "link": "https://in-mc-pdlive.fancode.com/mumbai/4246722_english_hls_dbf98ca42d71277_1ta-di_h264/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE (BD)",
-      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246722_english_hls_dbf98ca42d71277_1ta-di_h264/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -2,37 +2,27 @@
   "id": 450,
   "order_index": 54,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "ASEAN Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
   },
   "teamA": {
-    "name": "White Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
+    "name": "Vietnam",
+    "logo": "https://img.sofascore.com/api/v1/team/7050/image"
   },
   "teamB": {
-    "name": "Astros",
-    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
+    "name": "Singapore",
+    "logo": "https://img.sofascore.com/api/v1/team/4738/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "24/07/2026",
-  "time": "23:40:00",
-  "links_metadata_path": "pro/TUxCLVdoaXRlIFNveC12cy1Bc3Ryb3MxNzg0ODc3NzAwOTY4.txt",
+  "date": "31/07/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLVZpZXRuYW0tdnMtU2luZ2Fwb3JlMTc4NTQ4MTM5MDUxMA.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream1.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live ",
-      "link": "https://instreams.live/live/MLB11/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB11&Origin=https://instream.click/jwp2-us.php?stream=MLB11",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

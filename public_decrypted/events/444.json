@@ -2,37 +2,27 @@
   "id": 444,
   "order_index": 48,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Red Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
+    "name": "Sassuolo",
+    "logo": "https://img.sofascore.com/api/v1/team/2793/image"
   },
   "teamB": {
-    "name": "Blue Jays",
-    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
+    "name": "Folgore Caratese",
+    "logo": "https://img.sofascore.com/api/v1/team/117230/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "24/07/2026",
-  "time": "23:15:00",
-  "links_metadata_path": "pro/TUxCLVJlZCBTb3gtdnMtQmx1ZSBKYXlzMTc4NDg3NzcwMDk2Nw.txt",
+  "date": "31/07/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1TYXNzdW9sby12cy1Gb2xnb3JlIENhcmF0ZXNlMTc4NTQ4MTM5MDUxMA.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream1.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live ",
-      "link": "https://instreams.live/live/MLB10/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB10&Origin=https://instream.click/jwp2-us.php?stream=MLB10",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
