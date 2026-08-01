@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1MZWljZXN0ZXItdnMtR2Vub2ExNzg1NTI2NjYxMjEy.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "SD STREAM ",
+      "link": "http://193.47.62.190/hls/vaaaq.m3u8|referer=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD STREAM ",
+      "link": "https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001785609237-0-0-3e5d345147fa21e75e8b473ffbfcaf57|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://soco.textliveupdaterz.com/&Origin=https://soco.textliveupdaterz.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
