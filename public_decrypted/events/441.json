@@ -21,8 +21,25 @@
   "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tTE5TLVctdnMtU09CLVcxNzg1NDQ0NDI2Mzk1.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ayjnmiw5wy/out/v1/3070c1e4d0a74cedb09630e4cd6c4ad8/cenc.mpd",
+      "scheme": 0,
+      "api": "7f6a671206b136a87c3e6281e3d045de:14be50a9fb175661c2b4f60532cea100",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ayjnmiw5wy/out/v1/3070c1e4d0a74cedb09630e4cd6c4ad8/cenc.mpd",
+      "scheme": 0,
+      "api": "7f6a671206b136a87c3e6281e3d045de:14be50a9fb175661c2b4f60532cea100",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD FHD",
+      "link": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8|referer=https://tapmad.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

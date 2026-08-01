@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/VGhlIEh1bmRyZWQtQlBILXZzLVdFRjE3ODU0NDQ0MjYzOTU.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m0d543o5wv/out/v1/52a921583f1e4a57b620e8435d15f164/cenc.mpd",
+      "scheme": 0,
+      "api": "57e2cbf56a418b8dd25fb41a5fd73c40:05d87ed2bacb50ec4312ee5f53d5363b",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m0d543o5wv/out/v1/52a921583f1e4a57b620e8435d15f164/cenc.mpd",
+      "scheme": 0,
+      "api": "57e2cbf56a418b8dd25fb41a5fd73c40:05d87ed2bacb50ec4312ee5f53d5363b",
+      "tokenApi": ""
+    },
+    {
+      "name": "CRICBUZZ - AQ",
+      "link": "https://astro-cricket-proxy-3.onrender.com/https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2504/default_ott.mpd",
+      "scheme": 0,
+      "api": "03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD FHD",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
