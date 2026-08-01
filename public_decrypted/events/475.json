@@ -22,7 +22,45 @@
   "links": [
     {
       "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+      "scheme": 0,
+      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+      "tokenApi": ""
+    },
+    {
+      "name": "REAL MDTV ES",
+      "link": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FOX SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/54052/load-playlist?|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "TRT HD FAST",
+      "link": "https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktrtspor/playlist.m3u8|Referer=https://www.selcuksportshd1841.xyz/&Origin=https://dga1op10s1u3leo.33a6243d11525c.click&User-Agent=Mozilla/5.0",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "PERSIANA SPORTS",
+      "link": "https://live12.ir/ayastv2/persiana.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE IN",
+      "link": "https://livecf.fancode.com/4248016_english_hls_d97e92363555615_1ta-di_h264/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

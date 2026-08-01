@@ -22,7 +22,10 @@
   "links": [
     {
       "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "link": "http://193.47.62.192/hls/OGGGAaaa.m3u8|referer=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
