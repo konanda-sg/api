@@ -96,12 +96,6 @@
     "order_index": 75
   },
   {
-    "id": 472,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Oxford Utd\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/95\\/image\"},\"teamB\":{\"name\":\"Ipswich\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/32\\/image\"},\"visible\":true,\"date\":\"01\\/08\\/2026\",\"time\":\"11:00:00\",\"end_date\":\"01\\/08\\/2026\",\"end_time\":\"13:20:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1PeGZvcmQgVXRkLXZzLUlwc3dpY2gxNzg1NTI2NjYxMjEy.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
-    "order_index": 76
-  },
-  {
     "id": 473,
     "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Women's Africa Cup of Nations\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/9558\\/image\\/dark\"},\"teamA\":{\"name\":\"Nigeria\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/7420\\/image\"},\"teamB\":{\"name\":\"Zambia\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/288601\\/image\"},\"visible\":true,\"date\":\"01\\/08\\/2026\",\"time\":\"20:00:00\",\"end_date\":\"01\\/08\\/2026\",\"end_time\":\"22:20:00\",\"links\":\"pro\\/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtTmlnZXJpYS12cy1aYW1iaWExNzg1NTI2NjYxMjEy.txt\"}",
     "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
@@ -151,8 +145,8 @@
   },
   {
     "id": 481,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Man City\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/17\\/image\"},\"teamB\":{\"name\":\"Inter\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2697\\/image\"},\"visible\":true,\"date\":\"01\\/08\\/2026\",\"time\":\"11:30:00\",\"end_date\":\"01\\/08\\/2026\",\"end_time\":\"13:50:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1NYW4gQ2l0eS12cy1JbnRlcjE3ODU1MjY2NjEyMTI.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Man City\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/17\\/image\"},\"teamB\":{\"name\":\"Inter\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2697\\/image\"},\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1NYW4gQ2l0eS12cy1JbnRlcjE3ODU1MjY2NjEyMTI.txt\",\"time\":\"11:30:00\",\"date\":\"01\\/08\\/2026\",\"end_time\":\"13:50:00\",\"end_date\":\"01\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"FOX DEPORTES \",\"CBS NETWORK \",\"LOW QUALITY\"]}",
+    "links": "[{\"name\":\"FOX DEPORTES \",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/vkpoljjpkj\\/out\\/v1\\/502bcf68b3514cd28a220e6f0a43816f\\/cenc.mpd\",\"scheme\":0,\"api\":\"d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811\",\"tokenApi\":\"\"},{\"name\":\"CBS NETWORK \",\"link\":\"https:\\/\\/tedesco.formaturamaxi.com.br\\/cbssn.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.193\\/hls\\/jaaaF.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 85
   },
   {
