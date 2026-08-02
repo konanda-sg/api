@@ -2,23 +2,23 @@
   "id": 490,
   "order_index": 94,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Nationals",
-    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
+    "name": "Volendam",
+    "logo": "https://img.sofascore.com/api/v1/team/2968/image"
   },
   "teamB": {
-    "name": "Blue Jays",
-    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
+    "name": "Ajax",
+    "logo": "https://img.sofascore.com/api/v1/team/2953/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/07/2026",
-  "time": "17:05:00",
-  "links_metadata_path": "pro/TUxCLU5hdGlvbmFscy12cy1CbHVlIEpheXMxNzg1MzM4ODM4ODM2.txt",
+  "date": "02/08/2026",
+  "time": "12:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Wb2xlbmRhbS12cy1BamF4MTc4NTY1NTMxNzY4MA.txt",
   "links": [
     {
       "name": "Link 1",
