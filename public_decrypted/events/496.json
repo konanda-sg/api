@@ -2,23 +2,23 @@
   "id": 496,
   "order_index": 100,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "The Hundred",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
   },
   "teamA": {
-    "name": "Mets",
-    "logo": "https://img.sofascore.com/api/v1/team/3629/image"
+    "name": "WEF",
+    "logo": "https://img.sofascore.com/api/v1/team/377179/image"
   },
   "teamB": {
-    "name": "Braves",
-    "logo": "https://img.sofascore.com/api/v1/team/3656/image"
+    "name": "SOB",
+    "logo": "https://img.sofascore.com/api/v1/team/377177/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/07/2026",
-  "time": "17:10:00",
-  "links_metadata_path": "pro/TUxCLU1ldHMtdnMtQnJhdmVzMTc4NTMzODgzODgzNg.txt",
+  "date": "03/08/2026",
+  "time": "17:30:00",
+  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtV0VGLXZzLVNPQjE3ODU3MDc5Nzg2OTY.txt",
   "links": [
     {
       "name": "Link 1",

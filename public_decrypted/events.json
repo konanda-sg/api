@@ -30,39 +30,51 @@
     "order_index": 5
   },
   {
-    "id": 485,
-    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"The Hundred Women\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16717\\/image\\/dark\"},\"teamA\":{\"name\":\"TRT-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377204\\/image\"},\"teamB\":{\"name\":\"SL-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377206\\/image\"},\"links\":\"pro\\/VGhlIEh1bmRyZWQgV29tZW4tVFJULVctdnMtU0wtVzE3ODU1OTIyNzI0MDY.txt\",\"time\":\"10:00:00\",\"date\":\"02\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"WILLOW - AQ\",\"SKY CRICKET - AQ\",\"WILLOW - ALT\",\"TAPMAD - AQ\",\"SKY SPORT NZ\",\"FOX CRICKET HD\",\"LOW SERVER\"]}",
-    "links": "[{\"name\":\"WILLOW - AQ\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/iad-nitro\\/live\\/clients\\/dash\\/enc\\/qsp8wdw6zx\\/out\\/v1\\/8ec8b80ae2894df596d5f8458985ac07\\/cenc.mpd\",\"scheme\":0,\"api\":\"4233ee682178bef890187634568d759e:f285de0fb1c915abb65e94bec8e1b823\",\"tokenApi\":\"\"},{\"name\":\"SKY CRICKET - AQ\",\"link\":\"https:\\/\\/bl.rutube.ru\\/livestream\\/7c13a51576b9ff2601f08f5d57dd5169\\/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"WILLOW - ALT\",\"link\":\"https:\\/\\/abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net\\/iad-nitro\\/live\\/clients\\/dash\\/enc\\/qsp8wdw6zx\\/out\\/v1\\/8ec8b80ae2894df596d5f8458985ac07\\/cenc.mpd\",\"scheme\":0,\"api\":\"4233ee682178bef890187634568d759e:f285de0fb1c915abb65e94bec8e1b823\",\"tokenApi\":\"\"},{\"name\":\"TAPMAD - AQ\",\"link\":\"https:\\/\\/saseries.akamaized.net\\/hls\\/live\\/2110097\\/ZIMvsIND-3827e1\\/master.m3u8|referer=https:\\/\\/tapmad.com\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"SKY SPORT NZ\",\"link\":\"https:\\/\\/tmaxapp.site\\/8wirwjs76erftg\\/skysport1nz.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"FOX CRICKET HD\",\"link\":\"http:\\/\\/line.tvdsz.cc\\/play\\/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW SERVER\",\"link\":\"http:\\/\\/tvsen5.aynascope.net\\/willowhd\\/index.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 89
-  },
-  {
-    "id": 487,
-    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"The Hundred Women\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16717\\/image\\/dark\"},\"teamA\":{\"name\":\"MIL-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377200\\/image\"},\"teamB\":{\"name\":\"MSG-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377201\\/image\"},\"links\":\"pro\\/VGhlIEh1bmRyZWQgV29tZW4tTUlMLVctdnMtTVNHLVcxNzg1NTkyMjcyNDA2.txt\",\"time\":\"13:30:00\",\"date\":\"02\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"WILLOW - AQ\",\"WILLOW ALT\",\"TAPMAD \",\"LOW QUALITY\"]}",
-    "links": "[{\"name\":\"WILLOW - AQ\",\"link\":\"https:\\/\\/otte.live.fly.ww.aiv-cdn.net\\/iad-nitro\\/live\\/clients\\/dash\\/enc\\/pl1ezqchyz\\/out\\/v1\\/605ef67735e2486abc1ba548e9ce0f7f\\/cenc.mpd\",\"scheme\":0,\"api\":\"1edc619d2a59d202df46cf44697b09a1:c4621d2644854c372c6ef1c3dbd2532a\",\"tokenApi\":\"\"},{\"name\":\"WILLOW ALT\",\"link\":\"https:\\/\\/abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net\\/iad-nitro\\/live\\/clients\\/dash\\/enc\\/pl1ezqchyz\\/out\\/v1\\/605ef67735e2486abc1ba548e9ce0f7f\\/cenc.mpd\",\"scheme\":0,\"api\":\"1edc619d2a59d202df46cf44697b09a1:c4621d2644854c372c6ef1c3dbd2532a\",\"tokenApi\":\"\"},{\"name\":\"TAPMAD \",\"link\":\"https:\\/\\/saseries.akamaized.net\\/hls\\/live\\/2110097\\/ZIMvsIND-3827e1\\/master.m3u8|referer=https:\\/\\/tapmad.com\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.193\\/hls\\/WOOOAAAa.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 91
-  },
-  {
-    "id": 488,
-    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"The Hundred\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16710\\/image\\/dark\"},\"teamA\":{\"name\":\"TRT\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377176\\/image\"},\"teamB\":{\"name\":\"SL\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377178\\/image\"},\"links\":\"pro\\/VGhlIEh1bmRyZWQtVFJULXZzLVNMMTc4NTU5MjI3MjQwNg.txt\",\"time\":\"13:30:00\",\"date\":\"02\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"WILLOW - AQ\",\"Cricfy CRICKET \",\"WILLOW ALT\",\"TAPMAD \",\"FOX CRICKET \"]}",
-    "links": "[{\"name\":\"WILLOW - AQ\",\"link\":\"https:\\/\\/otte.live.fly.ww.aiv-cdn.net\\/iad-nitro\\/live\\/clients\\/dash\\/enc\\/4wx4w5tg5j\\/out\\/v1\\/87a9fd25ee574b7bb5847ebc2f8659d6\\/cenc.mpd\",\"scheme\":0,\"api\":\"e34f09cecd025b07b03fac4651db5dc0:242f315a8a0400c65ffa8bf4a02be4fe\",\"tokenApi\":\"\"},{\"name\":\"Cricfy CRICKET \",\"link\":\"https:\\/\\/bl.rutube.ru\\/livestream\\/7c13a51576b9ff2601f08f5d57dd5169\\/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"WILLOW ALT\",\"link\":\"https:\\/\\/abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net\\/iad-nitro\\/live\\/clients\\/dash\\/enc\\/4wx4w5tg5j\\/out\\/v1\\/87a9fd25ee574b7bb5847ebc2f8659d6\\/cenc.mpd\",\"scheme\":0,\"api\":\"e34f09cecd025b07b03fac4651db5dc0:242f315a8a0400c65ffa8bf4a02be4fe\",\"tokenApi\":\"\"},{\"name\":\"TAPMAD \",\"link\":\"https:\\/\\/saseries.akamaized.net\\/hls\\/live\\/2110097\\/ZIMvsIND-3827e1\\/master.m3u8|referer=https:\\/\\/tapmad.com\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"FOX CRICKET \",\"link\":\"http:\\/\\/line.tvdsz.cc\\/play\\/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 92
-  },
-  {
-    "id": 489,
-    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"Twenty20 International Women\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11222\\/image\\/dark\"},\"teamA\":{\"name\":\"SL-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/187806\\/image\"},\"teamB\":{\"name\":\"PAK-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/187808\\/image\"},\"links\":\"pro\\/VHdlbnR5MjAgSW50ZXJuYXRpb25hbCBXb21lbi1TTC1XLXZzLVBBSy1XMTc4NTY1MDkwMzc4Nw.txt\",\"time\":\"04:30:00\",\"date\":\"02\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"WILLOW - AQ\",\"TAPMAD - AQ\",\"FANCODE - IN\"]}",
-    "links": "[{\"name\":\"WILLOW - AQ\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/iad-nitro\\/live\\/clients\\/dash\\/enc\\/tll6uwepxa\\/out\\/v1\\/a7f67cbb33df46539312956427343886\\/cenc.mpd|Origin=https:\\/\\/amazon.com&user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/150.0.0.0 Safari\\/537.36 Edg\\/150.0.0.0\",\"scheme\":0,\"api\":\"290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247\",\"tokenApi\":\"\"},{\"name\":\"TAPMAD - AQ\",\"link\":\"https:\\/\\/saseries.akamaized.net\\/hls\\/live\\/2110097\\/D2PAKvsWI-TesT-tapmad\\/master.m3u8|referer=https:\\/\\/tapmad.com\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"FANCODE - IN\",\"link\":\"https:\\/\\/dai-fancode.pages.dev\\/mumbai\\/4247427_english_hls_abc2cd096315047_1ta-di_h264\\/index.m3u8|User-Agent=ReactNativeVideo\\/9.7.0 (Linux;Android 10)\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 93
-  },
-  {
-    "id": 490,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Volendam\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2968\\/image\"},\"teamB\":{\"name\":\"Ajax\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2953\\/image\"},\"visible\":true,\"date\":\"02\\/08\\/2026\",\"time\":\"12:30:00\",\"end_date\":\"02\\/08\\/2026\",\"end_time\":\"14:50:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1Wb2xlbmRhbS12cy1BamF4MTc4NTY1NTMxNzY4MA.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
-    "order_index": 94
-  },
-  {
     "id": 491,
-    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"Cricket\",\"eventLogo\":\"Cricket\"},\"teamA\":{\"name\":\"Asian Legends League\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10\"},\"teamB\":{\"name\":\"Asian Legends League\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10\"},\"links\":\"pro\\/Q3JpY2tldC1Bc2lhbiBMZWdlbmRzIExlYWd1ZS12cy1Bc2lhbiBMZWdlbmRzIExlYWd1ZTE3ODU2NTU0NjY5MjU.txt\",\"time\":\"09:30:00\",\"date\":\"02\\/08\\/2026\",\"end_time\":\"13:00:00\",\"end_date\":\"02\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"TAPMAD - AQ\",\"FANCODE - IN\"]}",
+    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"Cricket\",\"eventLogo\":\"Cricket\"},\"teamA\":{\"name\":\"Asian Legends League\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10\"},\"teamB\":{\"name\":\"Asian Legends League\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10\"},\"visible\":true,\"priority\":-1,\"date\":\"03\\/08\\/2026\",\"time\":\"07:30:00\",\"end_date\":\"03\\/08\\/2026\",\"end_time\":\"12:00:00\",\"link_names\":[\"TAPMAD - AQ\",\"FANCODE - IN\"],\"links\":\"pro\\/Q3JpY2tldC1Bc2lhbiBMZWdlbmRzIExlYWd1ZS12cy1Bc2lhbiBMZWdlbmRzIExlYWd1ZTE3ODU2NTU0NjY5MjU.txt\"}",
     "links": "[{\"name\":\"TAPMAD - AQ\",\"link\":\"https:\\/\\/saseries.akamaized.net\\/hls\\/live\\/2110097\\/56408643-tapMad\\/master.m3u8|referer=https:\\/\\/tapmad.com\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"FANCODE - IN\",\"link\":\"https:\\/\\/dai-fancode.pages.dev\\/mumbai\\/4248193_english_hls_4f8bd291d112318_1ta-di_h264\\/index.m3u8|User-Agent=ReactNativeVideo\\/9.11.1 (Linux;Android 13) AndroidXMedia3\\/1.6.1&Referer=https:\\/\\/fancode.com\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 95
+  },
+  {
+    "id": 492,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Women's Africa Cup of Nations\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/9558\\/image\\/dark\"},\"teamA\":{\"name\":\"Kenya\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/237894\\/image\"},\"teamB\":{\"name\":\"Algeria\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/180004\\/image\"},\"visible\":true,\"date\":\"03\\/08\\/2026\",\"time\":\"20:00:00\",\"end_date\":\"03\\/08\\/2026\",\"end_time\":\"22:20:00\",\"links\":\"pro\\/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtS2VueWEtdnMtQWxnZXJpYTE3ODU3MDc5NTQwNTk.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 96
+  },
+  {
+    "id": 493,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"ASEAN Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/602\\/image\\/dark\"},\"teamA\":{\"name\":\"Cambodia\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/7929\\/image\"},\"teamB\":{\"name\":\"East Timor\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/23497\\/image\"},\"visible\":true,\"date\":\"03\\/08\\/2026\",\"time\":\"10:30:00\",\"end_date\":\"03\\/08\\/2026\",\"end_time\":\"12:50:00\",\"links\":\"pro\\/QVNFQU4gQ2hhbXBpb25zaGlwLUNhbWJvZGlhLXZzLUVhc3QgVGltb3IxNzg1NzA3OTU0MDU5.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 97
+  },
+  {
+    "id": 494,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"ASEAN Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/602\\/image\\/dark\"},\"teamA\":{\"name\":\"Indonesia\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/4829\\/image\"},\"teamB\":{\"name\":\"Vietnam\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/7050\\/image\"},\"visible\":true,\"date\":\"03\\/08\\/2026\",\"time\":\"13:30:00\",\"end_date\":\"03\\/08\\/2026\",\"end_time\":\"15:50:00\",\"links\":\"pro\\/QVNFQU4gQ2hhbXBpb25zaGlwLUluZG9uZXNpYS12cy1WaWV0bmFtMTc4NTcwNzk1NDA1OQ.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 98
+  },
+  {
+    "id": 495,
+    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"Twenty20 International Women\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11222\\/image\\/dark\"},\"teamA\":{\"name\":\"SL-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/187806\\/image\"},\"teamB\":{\"name\":\"PAK-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/187808\\/image\"},\"visible\":true,\"date\":\"04\\/08\\/2026\",\"time\":\"04:30:00\",\"links\":\"pro\\/VHdlbnR5MjAgSW50ZXJuYXRpb25hbCBXb21lbi1TTC1XLXZzLVBBSy1XMTc4NTcwNzk3ODY5Ng.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 99
+  },
+  {
+    "id": 496,
+    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"The Hundred\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16710\\/image\\/dark\"},\"teamA\":{\"name\":\"WEF\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377179\\/image\"},\"teamB\":{\"name\":\"SOB\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377177\\/image\"},\"visible\":true,\"date\":\"03\\/08\\/2026\",\"time\":\"17:30:00\",\"links\":\"pro\\/VGhlIEh1bmRyZWQtV0VGLXZzLVNPQjE3ODU3MDc5Nzg2OTY.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 100
+  },
+  {
+    "id": 497,
+    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"The Hundred Women\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16717\\/image\\/dark\"},\"teamA\":{\"name\":\"WEF-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377207\\/image\"},\"teamB\":{\"name\":\"SOB-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377205\\/image\"},\"visible\":true,\"date\":\"03\\/08\\/2026\",\"time\":\"14:00:00\",\"links\":\"pro\\/VGhlIEh1bmRyZWQgV29tZW4tV0VGLVctdnMtU09CLVcxNzg1NzA3OTc4Njk2.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 101
+  },
+  {
+    "id": 498,
+    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"ICC World Test Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/18833\\/image\\/dark\"},\"teamA\":{\"name\":\"WI\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/187760\\/image\"},\"teamB\":{\"name\":\"PAK\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/187754\\/image\"},\"visible\":true,\"priority\":-1,\"date\":\"03\\/08\\/2026\",\"time\":\"14:00:00\",\"link_names\":[\"Link 1\"],\"links\":\"pro\\/SUNDIFdvcmxkIFRlc3QgQ2hhbXBpb25zaGlwLVdJLXZzLVBBSzE3ODU3MDgxMTg4NzI.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 102
   }
 ]
