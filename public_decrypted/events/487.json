@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tTUlMLVctdnMtTVNHLVcxNzg1NTkyMjcyNDA2.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pl1ezqchyz/out/v1/605ef67735e2486abc1ba548e9ce0f7f/cenc.mpd",
+      "scheme": 0,
+      "api": "1edc619d2a59d202df46cf44697b09a1:c4621d2644854c372c6ef1c3dbd2532a",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pl1ezqchyz/out/v1/605ef67735e2486abc1ba548e9ce0f7f/cenc.mpd",
+      "scheme": 0,
+      "api": "1edc619d2a59d202df46cf44697b09a1:c4621d2644854c372c6ef1c3dbd2532a",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW QUALITY",
+      "link": "http://193.47.62.193/hls/WOOOAAAa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
