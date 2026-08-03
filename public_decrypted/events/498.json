@@ -21,8 +21,39 @@
   "links_metadata_path": "pro/SUNDIFdvcmxkIFRlc3QgQ2hhbXBpb25zaGlwLVdJLXZzLVBBSzE3ODU3MDgxMTg4NzI.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/54xvj77jse/out/v1/3a5f4414cdd545839f98cc93b790af70/cenc.mpd",
+      "scheme": 0,
+      "api": "ac2311e52a567706a77f5e2eeb75e707:518aff73a8da4c8b84fbe711505aabc8",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW - ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/54xvj77jse/out/v1/3a5f4414cdd545839f98cc93b790af70/cenc.mpd",
+      "scheme": 0,
+      "api": "ac2311e52a567706a77f5e2eeb75e707:518aff73a8da4c8b84fbe711505aabc8",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD - AQ",
+      "link": "https://messi.damitv.st/papi/ts/tntsports2-uk/playlist.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.193/hls/YOOOAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE - IN",
+      "link": "https://dai-fancode.pages.dev/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
