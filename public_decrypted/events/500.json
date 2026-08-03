@@ -2,55 +2,55 @@
   "id": 500,
   "order_index": 104,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
+    "category": "Football",
+    "eventName": "Women's Africa Cup of Nations",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
   },
   "teamA": {
-    "name": "TRT",
-    "logo": "https://img.sofascore.com/api/v1/team/377176/image"
+    "name": "Senegal",
+    "logo": "https://img.sofascore.com/api/v1/team/316945/image"
   },
   "teamB": {
-    "name": "LNS",
-    "logo": "https://img.sofascore.com/api/v1/team/377175/image"
+    "name": "Morocco",
+    "logo": "https://img.sofascore.com/api/v1/team/261908/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtVFJULXZzLUxOUzE3ODUwNTU2OTYzODE.txt",
+  "date": "03/08/2026",
+  "time": "20:00:00",
+  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtU2VuZWdhbC12cy1Nb3JvY2NvMTc4NTc4NzI0MjA4Mw.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mgmtkf8p8u/out/v1/9f2a323c1661489bb81efff57557a56e/cenc.mpd",
-      "scheme": 0,
-      "api": "ddf949ecd1277625c80bf1529da06c5d:9d04c9b29d5084fcf0230e893b8a724d",
-      "tokenApi": ""
-    },
-    {
-      "name": "SKY CRICKET - AQ",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+      "name": "BEIN ARABIC HD",
+      "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/FKlgDSvD8PbJ3kEregBlGph5_H5h9HE-4IyzSraaTDGw3guo_Jmdr3ShfWmAEBwua-XCQRNFd2kWl4xUp4Wsqg/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
     },
     {
-      "name": "TAPMAD - AQ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
+      "name": "Cric - 2",
+      "link": "https://live.vivo200.com/live/sd-1-4587735.m3u8?txSecret=6ead05d511f107d314a20434d9fa0f41&txTime=6A70F941|Referer=https://player.online909.com/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
     },
     {
       "name": "SD STREAM ",
-      "link": "http://193.47.62.190/hls/LFFFQ.m3u8|referer=http://www.fawanews.sc/",
+      "link": "http://193.47.62.191/hls/GSSSDD.m3u8|referer=http://www.fawanews.sc/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
     },
     {
-      "name": "SKY SPORT NZ",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+      "name": "Es",
+      "link": "https://messi.damitv.st/papi/tv/dlhd/372/playlist.m3u8?|Referer=https://ondemand.st/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy AR",
+      "link": "https://messi.damitv.st/papi/tv/dlhd/96/playlist.m3u8?|Referer=https://ondemand.st/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

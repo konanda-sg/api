@@ -21,8 +21,25 @@
   "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtS2VueWEtdnMtQWxnZXJpYTE3ODU3MDc5NTQwNTk.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy TV ",
+      "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/x6E6MM6ihNSSSyg7nITo7C9EP-C-mLuni1KEdvHH2ZLt1xsIjbYcaUIew3bYHVHQkIg7gf7fP5t53lg1r8UYRw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD STREAM ",
+      "link": "https://messi.damitv.st/papi/tv/dlhd/95/playlist.m3u8?|Referer=https://ondemand.st/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD STREAM",
+      "link": "http://193.47.62.191/hls/GSSSDDD.m3u8|referer=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
