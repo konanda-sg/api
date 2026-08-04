@@ -3,43 +3,26 @@
   "order_index": 107,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Brasileirão Betano",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Cruzeiro",
-    "logo": "https://img.sofascore.com/api/v1/team/1954/image"
+    "name": "Strasbourg",
+    "logo": "https://img.sofascore.com/api/v1/team/1659/image"
   },
   "teamB": {
-    "name": "Botafogo",
-    "logo": "https://img.sofascore.com/api/v1/team/1958/image"
+    "name": "Elversberg",
+    "logo": "https://img.sofascore.com/api/v1/team/2598/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1DcnV6ZWlyby12cy1Cb3RhZm9nbzE3ODUwNTU4Mjg3NjU.txt",
+  "date": "04/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1TdHJhc2JvdXJnLXZzLUVsdmVyc2JlcmcxNzg1ODI4NzQzMTU0.txt",
   "links": [
     {
-      "name": "PREMIER SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-      "scheme": 0,
-      "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-      "tokenApi": ""
-    },
-    {
-      "name": "PREMIERE BR ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
-      "scheme": 0,
-      "api": "e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
-      "tokenApi": ""
-    },
-    {
-      "name": "SportDigital Fussball",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-      "scheme": 0,
-      "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

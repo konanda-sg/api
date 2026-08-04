@@ -2,23 +2,23 @@
   "id": 506,
   "order_index": 110,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "category": "Cricket",
+    "eventName": "The Hundred",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
   },
   "teamA": {
-    "name": "Napoli",
-    "logo": "https://img.sofascore.com/api/v1/team/2714/image"
+    "name": "SL",
+    "logo": "https://img.sofascore.com/api/v1/team/377178/image"
   },
   "teamB": {
-    "name": "Carrarese",
-    "logo": "https://img.sofascore.com/api/v1/team/2745/image"
+    "name": "LNS",
+    "logo": "https://img.sofascore.com/api/v1/team/377175/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1OYXBvbGktdnMtQ2FycmFyZXNlMTc4NTA1NTgyODc2NQ.txt",
+  "date": "04/08/2026",
+  "time": "17:30:00",
+  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtU0wtdnMtTE5TMTc4NTgyODc3MjM5MQ.txt",
   "links": [
     {
       "name": "Link 1",

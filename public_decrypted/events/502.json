@@ -3,29 +3,26 @@
   "order_index": 106,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Brasileirão Betano",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "RB Bragantino",
-    "logo": "https://img.sofascore.com/api/v1/team/1999/image"
+    "name": "Newport",
+    "logo": "https://img.sofascore.com/api/v1/team/79/image"
   },
   "teamB": {
-    "name": "Coritiba",
-    "logo": "https://img.sofascore.com/api/v1/team/1982/image"
+    "name": "Roma",
+    "logo": "https://img.sofascore.com/api/v1/team/2702/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "21:30:00",
-  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1SQiBCcmFnYW50aW5vLXZzLUNvcml0aWJhMTc4NTA1NTgyODc2NQ.txt",
+  "date": "04/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1OZXdwb3J0LXZzLVJvbWExNzg1ODI4NzQzMTU0.txt",
   "links": [
     {
-      "name": "PREMIERE BR - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
-      "scheme": 0,
-      "api": "332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

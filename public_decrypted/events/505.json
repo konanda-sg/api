@@ -2,30 +2,27 @@
   "id": 505,
   "order_index": 109,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "category": "Cricket",
+    "eventName": "The Hundred Women",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
   },
   "teamA": {
-    "name": "Karlsruhe",
-    "logo": "https://img.sofascore.com/api/v1/team/2553/image"
+    "name": "MSG-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377201/image"
   },
   "teamB": {
-    "name": "Inter",
-    "logo": "https://img.sofascore.com/api/v1/team/2697/image"
+    "name": "WEF-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377207/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "14:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1LYXJsc3J1aGUtdnMtSW50ZXIxNzg1MDU1ODI4NzY1.txt",
+  "date": "05/08/2026",
+  "time": "10:30:00",
+  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tTVNHLVctdnMtV0VGLVcxNzg1ODI4NzcyMzkx.txt",
   "links": [
     {
-      "name": "PREMIER SPORTS ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-      "scheme": 0,
-      "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

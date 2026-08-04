@@ -2,23 +2,23 @@
   "id": 508,
   "order_index": 112,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "category": "Cricket",
+    "eventName": "The Hundred Women",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
   },
   "teamA": {
-    "name": "Frankfurt",
-    "logo": "https://img.sofascore.com/api/v1/team/2674/image"
+    "name": "SL-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377206/image"
   },
   "teamB": {
-    "name": "Trabzonspor",
-    "logo": "https://img.sofascore.com/api/v1/team/3051/image"
+    "name": "LNS-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377203/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "13:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1GcmFua2Z1cnQtdnMtVHJhYnpvbnNwb3IxNzg1MDU1ODI4NzY1.txt",
+  "date": "04/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tU0wtVy12cy1MTlMtVzE3ODU4Mjg3NzIzOTE.txt",
   "links": [
     {
       "name": "Link 1",

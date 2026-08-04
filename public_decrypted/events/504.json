@@ -7,18 +7,18 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Cannes",
-    "logo": "https://img.sofascore.com/api/v1/team/1755/image"
+    "name": "Pathum Utd",
+    "logo": "https://img.sofascore.com/api/v1/team/35607/image"
   },
   "teamB": {
-    "name": "Roma",
-    "logo": "https://img.sofascore.com/api/v1/team/2702/image"
+    "name": "Aston Villa",
+    "logo": "https://img.sofascore.com/api/v1/team/40/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "15:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1DYW5uZXMtdnMtUm9tYTE3ODUwNTU4Mjg3NjU.txt",
+  "date": "04/08/2026",
+  "time": "12:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1QYXRodW0gVXRkLXZzLUFzdG9uIFZpbGxhMTc4NTgyODc0MzE1NA.txt",
   "links": [
     {
       "name": "Link 1",
