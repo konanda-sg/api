@@ -49,8 +49,8 @@
   },
   {
     "id": 499,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Jeju\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/7649\\/image\"},\"teamB\":{\"name\":\"Bayern\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2672\\/image\"},\"visible\":true,\"date\":\"04\\/08\\/2026\",\"time\":\"11:00:00\",\"end_date\":\"04\\/08\\/2026\",\"end_time\":\"13:20:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1KZWp1LXZzLUJheWVybjE3ODU4Mjg3NDMxNTQ.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Jeju\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/7649\\/image\"},\"teamB\":{\"name\":\"Bayern\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2672\\/image\"},\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1KZWp1LXZzLUJheWVybjE3ODU4Mjg3NDMxNTQ.txt\",\"time\":\"11:00:00\",\"date\":\"04\\/08\\/2026\",\"end_time\":\"13:20:00\",\"end_date\":\"04\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY\",\"LOW QUALITY\"]}",
+    "links": "[{\"name\":\"HD QUALITY\",\"link\":\"https:\\/\\/live2.streambylivepulse.com\\/live\\/channel16.m3u8|referer=https:\\/\\/xoilac.textliveupdaterz.com\\/&origin=https:\\/\\/xoilac.textliveupdaterz.com\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.190\\/hls\\/IOOOA.m3u8|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 103
   },
   {
@@ -106,5 +106,11 @@
     "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"The Hundred Women\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16717\\/image\\/dark\"},\"teamA\":{\"name\":\"SL-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377206\\/image\"},\"teamB\":{\"name\":\"LNS-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377203\\/image\"},\"visible\":true,\"date\":\"04\\/08\\/2026\",\"time\":\"14:00:00\",\"links\":\"pro\\/VGhlIEh1bmRyZWQgV29tZW4tU0wtVy12cy1MTlMtVzE3ODU4Mjg3NzIzOTE.txt\"}",
     "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 112
+  },
+  {
+    "id": 509,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"ASEAN Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/602\\/image\\/dark\"},\"teamA\":{\"name\":\"Philippines\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/4791\\/image\"},\"teamB\":{\"name\":\"Thailand\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/4730\\/image\"},\"visible\":true,\"date\":\"04\\/08\\/2026\",\"time\":\"13:00:00\",\"end_date\":\"04\\/08\\/2026\",\"end_time\":\"15:20:00\",\"links\":\"pro\\/QVNFQU4gQ2hhbXBpb25zaGlwLVBoaWxpcHBpbmVzLXZzLVRoYWlsYW5kMTc4NTg0MjIwMjM0OA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 113
   }
 ]

@@ -3,29 +3,26 @@
   "order_index": 113,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "ASEAN Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
   },
   "teamA": {
-    "name": "Rangers",
-    "logo": "https://img.sofascore.com/api/v1/team/2351/image"
+    "name": "Philippines",
+    "logo": "https://img.sofascore.com/api/v1/team/4791/image"
   },
   "teamB": {
-    "name": "West Ham",
-    "logo": "https://img.sofascore.com/api/v1/team/37/image"
+    "name": "Thailand",
+    "logo": "https://img.sofascore.com/api/v1/team/4730/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "15:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1SYW5nZXJzLXZzLVdlc3QgSGFtMTc4NTA1NTgyODc2NQ.txt",
+  "date": "04/08/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLVBoaWxpcHBpbmVzLXZzLVRoYWlsYW5kMTc4NTg0MjIwMjM0OA.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.191/hls/YMMMQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

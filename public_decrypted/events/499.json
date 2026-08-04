@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1KZWp1LXZzLUJheWVybjE3ODU4Mjg3NDMxNTQ.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "HD QUALITY",
+      "link": "https://live2.streambylivepulse.com/live/channel16.m3u8|referer=https://xoilac.textliveupdaterz.com/&origin=https://xoilac.textliveupdaterz.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW QUALITY",
+      "link": "http://193.47.62.190/hls/IOOOA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
