@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLVBoaWxpcHBpbmVzLXZzLVRoYWlsYW5kMTc4NTg0MjIwMjM0OA.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "CRICFy LIVE ",
+      "link": "https://live2.streambylivepulse.com/live/channel15.m3u8|Referer=https://soco.livepingscorex.com ",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.190/hls/IOOOAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

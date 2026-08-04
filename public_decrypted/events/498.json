@@ -22,20 +22,27 @@
   "links": [
     {
       "name": "WILLOW - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/54xvj77jse/out/v1/3a5f4414cdd545839f98cc93b790af70/cenc.mpd",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rppouzsbk7/out/v1/f51c2e9845e24c8c959e0725614aaf61/cenc.mpd",
       "scheme": 0,
-      "api": "ac2311e52a567706a77f5e2eeb75e707:518aff73a8da4c8b84fbe711505aabc8",
+      "api": "ae4d308848c3fa0e2f6e9e57cae1bffb:12fdaa10a7f4dd536e9c121dc08a72b3",
       "tokenApi": ""
     },
     {
       "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/54xvj77jse/out/v1/3a5f4414cdd545839f98cc93b790af70/cenc.mpd",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rppouzsbk7/out/v1/f51c2e9845e24c8c959e0725614aaf61/cenc.mpd",
       "scheme": 0,
-      "api": "ac2311e52a567706a77f5e2eeb75e707:518aff73a8da4c8b84fbe711505aabc8",
+      "api": "ae4d308848c3fa0e2f6e9e57cae1bffb:12fdaa10a7f4dd536e9c121dc08a72b3",
       "tokenApi": ""
     },
     {
       "name": "TAPMAD - AQ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "TNT SPORTS - AQ",
       "link": "https://messi.damitv.st/papi/ts/tntsports2-uk/playlist.m3u8",
       "scheme": 0,
       "api": "",
