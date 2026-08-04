@@ -3,26 +3,29 @@
   "order_index": 114,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Women's Africa Cup of Nations",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
   },
   "teamA": {
-    "name": "Bournemouth",
-    "logo": "https://img.sofascore.com/api/v1/team/60/image"
+    "name": "Tanzania",
+    "logo": "https://img.sofascore.com/api/v1/team/291680/image"
   },
   "teamB": {
-    "name": "Genoa",
-    "logo": "https://img.sofascore.com/api/v1/team/2713/image"
+    "name": "Côte d'Ivoire",
+    "logo": "https://img.sofascore.com/api/v1/team/186328/image"
   },
   "visible": true,
   "priority": -1,
   "date": "04/08/2026",
-  "time": "12:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Cb3VybmVtb3V0aC12cy1HZW5vYTE3ODU4NDcwMTg5NTA.txt",
+  "time": "20:00:00",
+  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtVGFuemFuaWEtdnMtQ8O0dGUgZCdJdm9pcmUxNzg1ODY4ODA3NzE4.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "beiN SPORTS 3 - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+      "tokenApi": ""
     }
   ]
 }
