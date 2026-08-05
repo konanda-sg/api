@@ -21,8 +21,39 @@
   "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtSkstdnMtR0cxNzg1ODI4NzcyMzkx.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ubunq88zf/out/v1/284fa0dc93c34624b2f7edf36c7a8b3c/cenc.mpd",
+      "scheme": 0,
+      "api": "595932d92efbd8423ac32fbffcc78dca:adea3202c6154d11faad1d54b363763c",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ubunq88zf/out/v1/284fa0dc93c34624b2f7edf36c7a8b3c/cenc.mpd",
+      "scheme": 0,
+      "api": "595932d92efbd8423ac32fbffcc78dca:adea3202c6154d11faad1d54b363763c",
+      "tokenApi": ""
+    },
+    {
+      "name": "T SPORTS ",
+      "link": "https://tvsen7.aynaott.com/Sports1/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "A SPORTS HD",
+      "link": "http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&stream=809397&extension=m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE (IND)",
+      "link": "https://dai-fancode.pages.dev/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
