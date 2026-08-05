@@ -7,32 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Nationals",
-    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
+    "name": "Astros",
+    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
   },
   "teamB": {
-    "name": "Diamondbacks",
-    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
+    "name": "Blue Jays",
+    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "17:35:00",
-  "links_metadata_path": "pro/TUxCLU5hdGlvbmFscy12cy1EaWFtb25kYmFja3MxNzg1MDU1ODg1MzA0.txt",
+  "date": "05/08/2026",
+  "time": "18:10:00",
+  "links_metadata_path": "pro/TUxCLUFzdHJvcy12cy1CbHVlIEpheXMxNzg1OTQ2Mjk1NTEw.txt",
   "links": [
     {
-      "name": "CRICFy LIVE ",
-      "link": "https://chatgpt.hereisman.net/playlist/53852/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD QUALITY",
-      "link": "https://edgestream1.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

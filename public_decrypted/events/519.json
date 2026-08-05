@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1TYXNzdW9sby12cy1DZWx0YTE3ODU5MDg5OTg3NDg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "FHD SERVER",
+      "link": "https://messi.damitv.st/live-hls/channel/uefa-champions-league-qualifying/2026-08-05/fen-stg/playlist.m3u8?|Referer=https://ondemand.st/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

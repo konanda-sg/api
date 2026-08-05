@@ -7,18 +7,18 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Brewers",
-    "logo": "https://img.sofascore.com/api/v1/team/3630/image"
+    "name": "Guardians",
+    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
   },
   "teamB": {
-    "name": "Rockies",
-    "logo": "https://img.sofascore.com/api/v1/team/3628/image"
+    "name": "Mets",
+    "logo": "https://img.sofascore.com/api/v1/team/3629/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "18:10:00",
-  "links_metadata_path": "pro/TUxCLUJyZXdlcnMtdnMtUm9ja2llczE3ODUwODkwMDk2MzM.txt",
+  "date": "05/08/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLUd1YXJkaWFucy12cy1NZXRzMTc4NTk0NjYxMjk5NA.txt",
   "links": [
     {
       "name": "Link 1",
