@@ -1,0 +1,28 @@
+{
+  "id": 551,
+  "order_index": 155,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "Metro Bank One-Day Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11177/image/dark"
+  },
+  "teamA": {
+    "name": "LAN",
+    "logo": "https://img.sofascore.com/api/v1/team/187822/image"
+  },
+  "teamB": {
+    "name": "GLO",
+    "logo": "https://img.sofascore.com/api/v1/team/187835/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "07/08/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/TWV0cm8gQmFuayBPbmUtRGF5IEN1cC1MQU4tdnMtR0xPMTc4NTk2NDUxMTI3OA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 550,
+  "order_index": 154,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "ICC World Test Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark"
+  },
+  "teamA": {
+    "name": "AUS",
+    "logo": "https://img.sofascore.com/api/v1/team/187746/image"
+  },
+  "teamB": {
+    "name": "BAN",
+    "logo": "https://img.sofascore.com/api/v1/team/187744/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "13/08/2026",
+  "time": "00:30:00",
+  "links_metadata_path": "pro/SUNDIFdvcmxkIFRlc3QgQ2hhbXBpb25zaGlwLUFVUy12cy1CQU4xNzg1OTYyNTA2ODI2.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

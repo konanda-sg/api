@@ -1,0 +1,28 @@
+{
+  "id": 548,
+  "order_index": 152,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "The Hundred",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
+  },
+  "teamA": {
+    "name": "LNS",
+    "logo": "https://img.sofascore.com/api/v1/team/377175/image"
+  },
+  "teamB": {
+    "name": "MIL",
+    "logo": "https://img.sofascore.com/api/v1/team/377172/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "06/08/2026",
+  "time": "17:30:00",
+  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtTE5TLXZzLU1JTDE3ODU5NjIzOTAzODA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
