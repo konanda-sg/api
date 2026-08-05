@@ -3,29 +3,26 @@
   "order_index": 118,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Brasileirão Betano",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+    "eventName": "Women's Africa Cup of Nations",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
   },
   "teamA": {
-    "name": "Bahia",
-    "logo": "https://img.sofascore.com/api/v1/team/1955/image"
+    "name": "Egypt",
+    "logo": "https://img.sofascore.com/api/v1/team/132930/image"
   },
   "teamB": {
-    "name": "Corinthians",
-    "logo": "https://img.sofascore.com/api/v1/team/1957/image"
+    "name": "Nigeria",
+    "logo": "https://img.sofascore.com/api/v1/team/7420/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1CYWhpYS12cy1Db3JpbnRoaWFuczE3ODUwNTU4Mjg3NjU.txt",
+  "date": "05/08/2026",
+  "time": "20:00:00",
+  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtRWd5cHQtdnMtTmlnZXJpYTE3ODU5MDg5OTg3NDc.txt",
   "links": [
     {
-      "name": "PREMIERE BR ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
-      "scheme": 0,
-      "api": "332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

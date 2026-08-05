@@ -3,29 +3,26 @@
   "order_index": 119,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Brasileirão Betano",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Remo",
-    "logo": "https://img.sofascore.com/api/v1/team/2012/image"
+    "name": "Milan",
+    "logo": "https://img.sofascore.com/api/v1/team/2692/image"
   },
   "teamB": {
-    "name": "Vitória",
-    "logo": "https://img.sofascore.com/api/v1/team/1962/image"
+    "name": "Inter",
+    "logo": "https://img.sofascore.com/api/v1/team/2697/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "22:30:00",
-  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1SZW1vLXZzLVZpdMOzcmlhMTc4NTA1NTgyODc2NQ.txt",
+  "date": "05/08/2026",
+  "time": "11:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1NaWxhbi12cy1JbnRlcjE3ODU5MDg5OTg3NDc.txt",
   "links": [
     {
-      "name": "PREMIERE BR - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd",
-      "scheme": 0,
-      "api": "561baa89676c89c1d047e1852ba01c09:a8c157826dfdf1299a329b77e2ab6a1a",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

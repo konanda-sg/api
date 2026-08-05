@@ -2,23 +2,23 @@
   "id": 522,
   "order_index": 126,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "ICC CWC League 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark"
   },
   "teamA": {
-    "name": "Rays",
-    "logo": "https://img.sofascore.com/api/v1/team/3653/image"
+    "name": "UAE",
+    "logo": "https://img.sofascore.com/api/v1/team/187771/image"
   },
   "teamB": {
-    "name": "Guardians",
-    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
+    "name": "CAN",
+    "logo": "https://img.sofascore.com/api/v1/team/189195/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "16:15:00",
-  "links_metadata_path": "pro/TUxCLVJheXMtdnMtR3VhcmRpYW5zMTc4NTA1NTg4NTMwNA.txt",
+  "date": "05/08/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/SUNDIENXQyBMZWFndWUgMi1VQUUtdnMtQ0FOMTc4NTkwOTAyNDE2OQ.txt",
   "links": [
     {
       "name": "Link 1",

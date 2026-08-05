@@ -2,23 +2,23 @@
   "id": 523,
   "order_index": 127,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "One Day International",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark"
   },
   "teamA": {
-    "name": "Cardinals",
-    "logo": "https://img.sofascore.com/api/v1/team/3632/image"
+    "name": "IRE",
+    "logo": "https://img.sofascore.com/api/v1/team/187766/image"
   },
   "teamB": {
-    "name": "Reds",
-    "logo": "https://img.sofascore.com/api/v1/team/3633/image"
+    "name": "AFG",
+    "logo": "https://img.sofascore.com/api/v1/team/187575/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "18:15:00",
-  "links_metadata_path": "pro/TUxCLUNhcmRpbmFscy12cy1SZWRzMTc4NTA1NTg4NTMwNA.txt",
+  "date": "05/08/2026",
+  "time": "09:45:00",
+  "links_metadata_path": "pro/T25lIERheSBJbnRlcm5hdGlvbmFsLUlSRS12cy1BRkcxNzg1OTA5MDI0MTY5.txt",
   "links": [
     {
       "name": "Link 1",

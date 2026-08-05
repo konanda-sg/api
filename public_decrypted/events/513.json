@@ -7,18 +7,18 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Forest",
-    "logo": "https://img.sofascore.com/api/v1/team/14/image"
+    "name": "Mallorca",
+    "logo": "https://img.sofascore.com/api/v1/team/2826/image"
   },
   "teamB": {
-    "name": "Vitória",
-    "logo": "https://img.sofascore.com/api/v1/team/3009/image"
+    "name": "PSG",
+    "logo": "https://img.sofascore.com/api/v1/team/1644/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "12:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Gb3Jlc3QtdnMtVml0w7NyaWExNzg1MDU1ODI4NzY1.txt",
+  "date": "05/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1NYWxsb3JjYS12cy1QU0cxNzg1OTA4OTk4NzQ3.txt",
   "links": [
     {
       "name": "Link 1",

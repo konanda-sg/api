@@ -2,37 +2,27 @@
   "id": 517,
   "order_index": 121,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Women's Africa Cup of Nations",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
   },
   "teamA": {
-    "name": "Orioles",
-    "logo": "https://img.sofascore.com/api/v1/team/3652/image"
+    "name": "Malawi",
+    "logo": "https://img.sofascore.com/api/v1/team/298498/image"
   },
   "teamB": {
-    "name": "Braves",
-    "logo": "https://img.sofascore.com/api/v1/team/3656/image"
+    "name": "Zambia",
+    "logo": "https://img.sofascore.com/api/v1/team/288601/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "17:35:00",
-  "links_metadata_path": "pro/TUxCLU9yaW9sZXMtdnMtQnJhdmVzMTc4NTA1NTg4NTMwNA.txt",
+  "date": "05/08/2026",
+  "time": "20:00:00",
+  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtTWFsYXdpLXZzLVphbWJpYTE3ODU5MDg5OTg3NDc.txt",
   "links": [
     {
-      "name": "CRICFy LIVE ",
-      "link": "https://chatgpt.hereisman.net/playlist/53849/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD QUALITY",
-      "link": "https://edgestream1.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

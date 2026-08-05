@@ -7,18 +7,18 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Lazio",
-    "logo": "https://img.sofascore.com/api/v1/team/2699/image"
+    "name": "Arsenal",
+    "logo": "https://img.sofascore.com/api/v1/team/42/image"
   },
   "teamB": {
-    "name": "Flaminia",
-    "logo": "https://img.sofascore.com/api/v1/team/296337/image"
+    "name": "Real Betis",
+    "logo": "https://img.sofascore.com/api/v1/team/2816/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1MYXppby12cy1GbGFtaW5pYTE3ODUwNTU4Mjg3NjU.txt",
+  "date": "05/08/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1BcnNlbmFsLXZzLVJlYWwgQmV0aXMxNzg1OTA4OTk4NzQ3.txt",
   "links": [
     {
       "name": "Link 1",

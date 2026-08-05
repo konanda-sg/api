@@ -2,30 +2,27 @@
   "id": 511,
   "order_index": 115,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Orioles",
-    "logo": "https://img.sofascore.com/api/v1/team/3652/image"
+    "name": "K-League Allstars",
+    "logo": "https://img.sofascore.com/api/v1/team/421734/image"
   },
   "teamB": {
-    "name": "Angels",
-    "logo": "https://img.sofascore.com/api/v1/team/5929/image"
+    "name": "Man City",
+    "logo": "https://img.sofascore.com/api/v1/team/17/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "04/08/2026",
-  "time": "22:35:00",
-  "links_metadata_path": "pro/TUxCLU9yaW9sZXMtdnMtQW5nZWxzMTc4NTg2ODkxNDk1Mg.txt",
+  "date": "05/08/2026",
+  "time": "11:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1LLUxlYWd1ZSBBbGxzdGFycy12cy1NYW4gQ2l0eTE3ODU5MDg5OTg3NDc.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream1.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
