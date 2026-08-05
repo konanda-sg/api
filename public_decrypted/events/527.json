@@ -2,34 +2,69 @@
   "id": 527,
   "order_index": 131,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "Lanka Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark"
   },
   "teamA": {
-    "name": "Phillies",
-    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
+    "name": "CK",
+    "logo": "https://img.sofascore.com/api/v1/team/453390/image"
   },
   "teamB": {
-    "name": "Yankees",
-    "logo": "https://img.sofascore.com/api/v1/team/3654/image"
+    "name": "KRL",
+    "logo": "https://img.sofascore.com/api/v1/team/369187/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/07/2026",
-  "time": "23:20:00",
-  "links_metadata_path": "pro/TUxCLVBoaWxsaWVzLXZzLVlhbmtlZXMxNzg1MDU1ODg1MzA0.txt",
+  "date": "05/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtQ0stdnMtS1JMMTc4NTkzNzc5ODgzNg.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream2.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+      "name": "WILLOW - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qlfjlgeaxh/out/v1/9b5a56804ead44f1983d7abba2cdfe44/cenc.mpd",
+      "scheme": 0,
+      "api": "1e6728d7cde921927aac8b68b38273da:8f218d41cf6a64179ff1f2a9d3b4190f",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW - ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qlfjlgeaxh/out/v1/9b5a56804ead44f1983d7abba2cdfe44/cenc.mpd",
+      "scheme": 0,
+      "api": "1e6728d7cde921927aac8b68b38273da:8f218d41cf6a64179ff1f2a9d3b4190f",
+      "tokenApi": ""
+    },
+    {
+      "name": "T SPORTS - AQ",
+      "link": "https://tvsen7.aynaott.com/Sports1/index.m3u8",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
     },
     {
-      "name": "Cricfy Live ",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8",
+      "name": "A SPORTS - AQ",
+      "link": "http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&stream=809397&extension=m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "T SPORTS HD",
+      "link": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "A SPORTS HD",
+      "link": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE - IN",
+      "link": "https://dai-fancode.pages.dev/mumbai/4246725_english_hls_4970c22efa72931_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

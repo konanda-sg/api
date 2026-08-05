@@ -22,23 +22,16 @@
   "links": [
     {
       "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rppouzsbk7/out/v1/f51c2e9845e24c8c959e0725614aaf61/cenc.mpd",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/otsc0y4fff/out/v1/70d1e416ce274818b66430b3b88dde9a/cenc.mpd",
       "scheme": 0,
-      "api": "ae4d308848c3fa0e2f6e9e57cae1bffb:12fdaa10a7f4dd536e9c121dc08a72b3",
+      "api": "a24bbb091c849a230e8aad435a941a69:3d40240333ded1b4a60e14b34aeaa58a",
       "tokenApi": ""
     },
     {
       "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rppouzsbk7/out/v1/f51c2e9845e24c8c959e0725614aaf61/cenc.mpd",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/otsc0y4fff/out/v1/70d1e416ce274818b66430b3b88dde9a/cenc.mpd",
       "scheme": 0,
-      "api": "ae4d308848c3fa0e2f6e9e57cae1bffb:12fdaa10a7f4dd536e9c121dc08a72b3",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD - AQ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
+      "api": "a24bbb091c849a230e8aad435a941a69:3d40240333ded1b4a60e14b34aeaa58a",
       "tokenApi": ""
     },
     {
@@ -49,15 +42,22 @@
       "tokenApi": ""
     },
     {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.193/hls/YOOOAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "name": "TAPMAD - AQ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
     },
     {
       "name": "FANCODE - IN",
-      "link": "https://dai-fancode.pages.dev/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.193/hls/YOOOAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
