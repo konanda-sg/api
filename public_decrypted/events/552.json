@@ -1,0 +1,28 @@
+{
+  "id": 552,
+  "order_index": 156,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "UEFA Europa League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark"
+  },
+  "teamA": {
+    "name": "Hradec Králové",
+    "logo": "https://img.sofascore.com/api/v1/team/2217/image"
+  },
+  "teamB": {
+    "name": "Beşiktaş",
+    "logo": "https://img.sofascore.com/api/v1/team/3050/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "06/08/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLUhyYWRlYyBLcsOhbG92w6ktdnMtQmXFn2lrdGHFnzE3ODYwMDA2OTQ2Nzc.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 559,
+  "order_index": 163,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "AS Monaco",
+    "logo": "https://img.sofascore.com/api/v1/team/1653/image"
+  },
+  "teamB": {
+    "name": "Getafe",
+    "logo": "https://img.sofascore.com/api/v1/team/2859/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "06/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1BUyBNb25hY28tdnMtR2V0YWZlMTc4NjAwMDY5NDY3Nw.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

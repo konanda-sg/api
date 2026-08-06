@@ -1,0 +1,28 @@
+{
+  "id": 560,
+  "order_index": 164,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Fiorentina",
+    "logo": "https://img.sofascore.com/api/v1/team/2693/image"
+  },
+  "teamB": {
+    "name": "Deportivo",
+    "logo": "https://img.sofascore.com/api/v1/team/2832/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "06/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1GaW9yZW50aW5hLXZzLURlcG9ydGl2bzE3ODYwMDA2OTQ2Nzc.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
