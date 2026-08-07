@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1Cb2hlbWlhbiBGQy12cy1NaWR0anlsbGFuZDE3ODYwMDA2OTQ2Nzc.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy Live ",
+      "link": "https://live.vivo200.com/live/sd-1-4602564.m3u8?txSecret=e957564a4388e48ab3dce1a369a5ae85&txTime=6A74EA76|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://www.rtmpcdn.com/live/03714c2a-b7ee-4c5a-9201-d9a22a7df93d.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD STREAM ",
+      "link": "https://hls.live123.fans/live/4602564.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low Quality ",
+      "link": "https://stream.sports3.win/iptv/live/signal-4602564-29919.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

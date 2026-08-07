@@ -1,0 +1,28 @@
+{
+  "id": 576,
+  "order_index": 180,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "The Hundred Women",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
+  },
+  "teamA": {
+    "name": "SOB-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377205/image"
+  },
+  "teamB": {
+    "name": "MSG-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377201/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tU09CLVctdnMtTVNHLVcxNzg2MDQzNzY0Mzc1.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

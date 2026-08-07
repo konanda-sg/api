@@ -21,8 +21,25 @@
   "links_metadata_path": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLUJlbmZpY2EtdnMtSGVhcnRzMTc4NjAwMDY5NDY3Nw.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Premier Sports",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://chatgpt.hereisman.net/playlist/54271/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD STREAM ",
+      "link": "https://live.vivo200.com/live/sd-1-4602535.m3u8?txSecret=2626a958162282f1f356822469f4465c&txTime=6A74EB13|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
