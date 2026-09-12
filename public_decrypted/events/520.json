@@ -1,6 +1,6 @@
 {
   "id": 520,
-  "order_index": 333,
+  "order_index": 0,
   "eventDetails": {
     "category": "Football",
     "eventName": "Premier League",
@@ -15,7 +15,7 @@
     "logo": "https://img.sofascore.com/api/v1/team/42/image"
   },
   "visible": true,
-  "priority": -1,
+  "priority": 1,
   "date": "12/09/2026",
   "time": "19:00:00",
   "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtU3VuZGVybGFuZC12cy1BcnNlbmFsMTc4OTIwNDkwMjUxOQ.txt",
@@ -32,6 +32,48 @@
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
       "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+      "tokenApi": ""
+    },
+    {
+      "name": "USA TV HD",
+      "link": "https://chatgpt.hereisman.net/playlist/56287/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN ARABIC",
+      "link": "https://hrthrtjhrtijkhiurt.chkgjkg.online/hls/34.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.uu6611.com/live/hd-en-1-4558550.m3u8?txSecret=d5867eb530ff9c6ead13bf23ec19650b&txTime=6AA5E32F|Referer=https://player.up909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://www.rtmpcdn.com/live/72278901-a6b0-4cdb-a1d9-34514cc968d0.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.59/hls/JJJJX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
       "tokenApi": ""
     }
   ]

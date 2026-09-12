@@ -1,6 +1,6 @@
 {
   "id": 511,
-  "order_index": 324,
+  "order_index": 18,
   "eventDetails": {
     "category": "Football",
     "eventName": "Ligue 1",
@@ -21,8 +21,25 @@
   "links_metadata_path": "pro/TGlndWUgMS1MZSBIYXZyZS12cy1BbmdlcnMxNzg5MjA0OTAyNTE5.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "CricfyTV.Net",
+      "link": "https://live.uu6611.com/live/hd-en-1-4550871.m3u8?txSecret=98858b494e9bfb05adeb7a60328f18ad&txTime=6AA5E0EF|Referer=https://player.up909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Ligue1+ HD",
+      "link": "https://edgestream7.pro/hls/2rB5nTKlP8mE.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Ligue 1 5",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-238.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

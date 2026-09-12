@@ -1,6 +1,6 @@
 {
   "id": 527,
-  "order_index": 340,
+  "order_index": 27,
   "eventDetails": {
     "category": "Football",
     "eventName": "VriendenLoterij Eredivisie",
@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtQ2FtYnV1ci12cy1ORUMxNzg5MjA0OTAyNTE5.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "CricfyTV.Net",
+      "link": "https://live.uu6611.com/live/sd-1-4552198.m3u8?txSecret=81b725e9e1a603f6267445354bc1c72e&txTime=6AA5E8AC|Referer=https://player.up909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

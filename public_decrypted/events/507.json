@@ -1,6 +1,6 @@
 {
   "id": 507,
-  "order_index": 320,
+  "order_index": 17,
   "eventDetails": {
     "category": "Football",
     "eventName": "2. Bundesliga",
@@ -21,11 +21,32 @@
   "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1TdC4gUGF1bGktdnMtV29sZnNidXJnMTc4OTIwNDkwMjUxOQ.txt",
   "links": [
     {
+      "name": "Cricfy Live",
+      "link": "https://live.uu6611.com/live/sd-1-4566570.m3u8?txSecret=7cb003bd1f87c1c1841c4533939cb23d&txTime=6AA5DFB6|Referer=https://player.up909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "bundesliga 3",
       "link": "",
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-946.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.41/hls/JIIIQQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Eleven 3",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-428.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

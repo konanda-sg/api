@@ -1,6 +1,6 @@
 {
   "id": 496,
-  "order_index": 309,
+  "order_index": 13,
   "eventDetails": {
     "category": "Football",
     "eventName": "Ligue 1",
@@ -33,6 +33,22 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-10.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.uu6611.com/live/hd-en-1-4550874.m3u8?txSecret=78138625730b5a4a2e4742e0b7ad1524&txTime=6AA5E0C2|Referer=https://player.up909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "Ligue1+ HD",
+      "link": "https://edgestream3.pro/hls/hflfkrtib42.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": 490,
-  "order_index": 303,
+  "order_index": 9,
   "eventDetails": {
     "category": "Mixed Martial Arts",
     "eventName": "UFC",
@@ -16,8 +16,8 @@
   },
   "visible": true,
   "priority": -1,
-  "date": "12/09/2026",
-  "time": "23:00:00",
+  "date": "11/09/2026",
+  "time": "21:00:00",
   "links_metadata_path": "pro/VUZDLUouIFNpbHZhLXZzLUouIE0uIERlbGdhZG8xNzg5MTE4OTgyNjQz.txt",
   "links": [
     {

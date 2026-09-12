@@ -1,6 +1,6 @@
 {
   "id": 537,
-  "order_index": 350,
+  "order_index": 37,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
@@ -21,11 +21,18 @@
   "links_metadata_path": "pro/TUxCLUdpYW50cy12cy1QYWRyZXMxNzg5MjEyNjc4MjMz.txt",
   "links": [
     {
-      "name": "Link 1",
+      "name": "MLB",
       "link": "https://edgestream5.pro/hls/JHDAJBDnjdna30.m3u8|referer=https://streame.center/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
+    },
+    {
+      "name": "MLB Pass",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/20.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }
