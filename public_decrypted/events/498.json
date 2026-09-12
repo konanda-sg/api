@@ -21,10 +21,17 @@
   "links_metadata_path": "pro/TGFMaWdhIDItR3JhbmFkYS12cy1BbGJhY2V0ZTE3ODkyMDQ5MDI1MTk.txt",
   "links": [
     {
-      "name": "Laliga Hypermotion - AQ",
-      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+      "name": "Laliga ",
+      "link": "https://live.uu6611.com/live/sd-1-4567263.m3u8?txSecret=de914eff878a49daccf7e2ea9325e19b&txTime=6AA5C4AF|Referer=https://player.up909.com/",
       "scheme": 0,
-      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.41/hls/GAAAQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
       "tokenApi": ""
     }
   ]

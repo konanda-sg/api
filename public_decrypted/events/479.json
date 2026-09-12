@@ -33,6 +33,27 @@
       "scheme": 0,
       "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
       "tokenApi": ""
+    },
+    {
+      "name": "ESPN DEPORTES",
+      "link": "https://chatgpt.hereisman.net/playlist/56266/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.uu6611.com/live/hd-en-1-4565386.m3u8?txSecret=64bfa352716487d92bcbd1fc1dacd481&txTime=6AA5C47C|Referer=https://player.up909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://edgestream5.pro/hls/377qj1h2727.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

@@ -28,6 +28,21 @@
       "tokenApi": ""
     },
     {
+      "name": "CricfyTV.Net",
+      "link": "https://live.uu6611.com/live/hd-en-1-4566248.m3u8?txSecret=a0ab0ff190a420ae9883d29b60408688&txTime=6AA5C452|Referer=https://player.up909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.41/hls/GAAAQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Sportklub 5",
       "link": "",
       "scheme": 0,
