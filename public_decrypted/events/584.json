@@ -1,6 +1,6 @@
 {
   "id": 584,
-  "order_index": 82,
+  "order_index": 35,
   "eventDetails": {
     "category": "Football",
     "eventName": "Ligue 1",
@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/TGlndWUgMS1MZSBNYW5zLXZzLUxlbnMxNzg5MjgxMTMwNjgy.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy Live",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/7.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

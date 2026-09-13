@@ -1,6 +1,6 @@
 {
   "id": 580,
-  "order_index": 78,
+  "order_index": 32,
   "eventDetails": {
     "category": "Football",
     "eventName": "Premier League",
@@ -21,8 +21,39 @@
   "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtQ292ZW50cnktdnMtQnJpZ2h0b24xNzg5MjgxMTMwNjgy.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "EPL HD",
+      "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent005adsf.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "DAZN SPORTS",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN ARABIC",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/bein4ar.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy HD",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/1.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

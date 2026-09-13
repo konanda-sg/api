@@ -1,6 +1,6 @@
 {
   "id": 586,
-  "order_index": 84,
+  "order_index": 37,
   "eventDetails": {
     "category": "Football",
     "eventName": "LaLiga",
@@ -44,6 +44,27 @@
     {
       "name": "beIN ARABIC",
       "link": "https://tmaxapp.site/8wirwjs76erftg/bein5ar.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD QUALITY",
+      "link": "https://www.rtmpcdn.com/live/dd52cbf1-2b66-4b3d-b574-0e53407ab059.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy HD",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/3.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.41/hls/TMMMAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

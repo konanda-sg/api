@@ -1,6 +1,6 @@
 {
   "id": 572,
-  "order_index": 70,
+  "order_index": 0,
   "eventDetails": {
     "category": "Football",
     "eventName": "LaLiga",
@@ -15,7 +15,7 @@
     "logo": "https://img.sofascore.com/api/v1/team/2817/image"
   },
   "visible": true,
-  "priority": -1,
+  "priority": 1,
   "date": "13/09/2026",
   "time": "14:15:00",
   "links_metadata_path": "pro/TGFMaWdhLUxldmFudGUtdnMtQmFyY2Vsb25hMTc4OTI4MTEzMDY4Mg.txt",
@@ -51,6 +51,27 @@
     {
       "name": "beIN ARABIC HD",
       "link": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "ESPN DEPORTES HD",
+      "link": "https://chatgpt.hereisman.net/playlist/56401/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://www.rtmpcdn.com/live/88f9cc19-3495-485d-90ed-89fd97e6544d.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.55/hls/CYYYYQq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

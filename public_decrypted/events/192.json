@@ -17,7 +17,7 @@
   "visible": true,
   "priority": -1,
   "date": "13/09/2026",
-  "time": "13:00:00",
+  "time": "12:00:00",
   "links_metadata_path": "pro/TW90b0dQLU1vdG9HUC12cy1Nb3RvR1AxNzg4MDc2NzUzNzIw.txt",
   "links": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "name": "FANCODE - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
       "scheme": 0,
-      "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+      "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
       "tokenApi": ""
     },
     {
@@ -46,6 +46,20 @@
       "link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
       "scheme": 0,
       "api": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy HD",
+      "link": "https://edgestream1.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.44/hls/kkkkaAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
       "tokenApi": ""
     }
   ]

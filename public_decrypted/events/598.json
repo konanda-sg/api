@@ -1,6 +1,6 @@
 {
   "id": 598,
-  "order_index": 96,
+  "order_index": 49,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/TUxCLUJyZXdlcnMtdnMtUmVkczE3ODkyOTI1NjM4ODg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy MLB",
+      "link": "https://edgestream5.pro/hls/qsdnajbq32.m3u8|referer=https://streame.center/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
