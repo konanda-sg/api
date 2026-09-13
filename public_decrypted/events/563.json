@@ -21,11 +21,46 @@
   "links_metadata_path": "pro/TGlndWUgMS1CcmVzdC12cy1QU0cxNzg5MjgxMTMwNjgy.txt",
   "links": [
     {
+      "name": "beIN Multi Commentary",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zjnol8ijrw/out/v1/27aac1f9df984d65a9d4b95d234f4468/6a39f782-9ceb-4c64-9094-fde10481983b-cenc.mpd?aws_sessionId=ae7cb031-c872-4975-b4bd-192427ac338c",
+      "scheme": 0,
+      "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN USA HD",
+      "link": "https://edgestream4.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://live.uu6611.com/live/hd-en-1-4550870.m3u8?txSecret=ad7b310f8c0ab11fd05e293ccbf5dcf4&txTime=6AA7351D|Referer=https://player.up909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD QUALITY ",
+      "link": "https://www.rtmpcdn.com/live/c3958402-8787-4467-a05e-0c56ac37fe45.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Cricfy Live",
       "link": "",
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/7.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.44/hls/FPPPAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
