@@ -21,11 +21,46 @@
   "links_metadata_path": "pro/TGlndWUgMS1MZSBNYW5zLXZzLUxlbnMxNzg5MjgxMTMwNjgy.txt",
   "links": [
     {
+      "name": "beIN Multi Commentary",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ffdrxzo6v0/out/v1/27aac1f9df984d65a9d4b95d234f4468/ef974ac8-858c-4f00-867e-c6c7d249365b-cenc.mpd?aws_sessionId=71d1ccc0-f193-4db2-877b-f3832aafc154",
+      "scheme": 0,
+      "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+      "tokenApi": ""
+    },
+    {
+      "name": "NOVA SPORTS - AQ",
+      "link": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+      "scheme": 0,
+      "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN USA",
+      "link": "https://edgestream6.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Cricfy Live",
       "link": "",
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/7.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://live.uu6611.com/live/hd-en-1-4550872.m3u8?txSecret=6da9d67e0a906410ef6b333ddd8e3ee4&txTime=6AA700AE|Referer=https://player.up909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Ligue1+ SD",
+      "link": "https://tmaxapp.site/ligue6sc6/ligue1.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

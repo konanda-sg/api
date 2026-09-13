@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1BbWVkLXZzLUJhxZ9ha8WfZWhpcjE3ODkyODExMzA2ODI.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy Live",
+      "link": "https://live.uu6611.com/live/sd-1-4581306.m3u8?txSecret=d96f530cae976a35eaa9b92de826fdad&txTime=6AA71B32|Referer=https://player.up909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.44/hls/TOOOA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

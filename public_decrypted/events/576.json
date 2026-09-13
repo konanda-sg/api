@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/U2VyaWUgQS1OYXBvbGktdnMtQm9sb2duYTE3ODkyODExMzA2ODI.txt",
   "links": [
     {
+      "name": "PARAMOUNT+ - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/mzyp0dprj5/out/v1/6e7cf0e45e2c496f8a6cf2a4e489472e/8035998b-84b3-4410-8d4f-0a5004bcd5a8-cenc.mpd?aws_sessionId=21175279-b7b5-427c-98ef-b2c30151055c",
+      "scheme": 0,
+      "api": "4a617d26f14e103f0739ef95a6f265dc:5f13e1b9c1ce10d381818a64412ae85a",
+      "tokenApi": ""
+    },
+    {
       "name": "beIN ENGLISH - AQ",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
