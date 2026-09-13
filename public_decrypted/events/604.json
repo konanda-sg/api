@@ -1,28 +1,28 @@
 {
   "id": 604,
-  "order_index": 54,
+  "order_index": 55,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "LaLiga 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+    "category": "American football",
+    "eventName": "NFL",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark"
   },
   "teamA": {
-    "name": "Sporting",
-    "logo": "https://img.sofascore.com/api/v1/team/2852/image"
+    "name": "Chargers",
+    "logo": "https://img.sofascore.com/api/v1/team/4429/image"
   },
   "teamB": {
-    "name": "Eldense",
-    "logo": "https://img.sofascore.com/api/v1/team/47321/image"
+    "name": "Cardinals",
+    "logo": "https://img.sofascore.com/api/v1/team/4412/image"
   },
   "visible": true,
   "priority": -1,
   "date": "13/09/2026",
-  "time": "12:00:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItU3BvcnRpbmctdnMtRWxkZW5zZTE3ODkyOTk3NzMwNTM.txt",
+  "time": "20:25:00",
+  "links_metadata_path": "pro/TkZMLUNoYXJnZXJzLXZzLUNhcmRpbmFsczE3ODkzMjk5NTc4Mjg.txt",
   "links": [
     {
-      "name": "Low",
-      "link": "http://193.47.62.41/hls/TMMMAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "name": "Cricfy HD",
+      "link": "https://edgestream3.pro/hls/ysvbxwnbc38.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

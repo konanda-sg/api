@@ -2,27 +2,27 @@
   "id": 600,
   "order_index": 51,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "American football",
+    "eventName": "NFL",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark"
   },
   "teamA": {
-    "name": "Tigers",
-    "logo": "https://img.sofascore.com/api/v1/team/3648/image"
+    "name": "Vikings",
+    "logo": "https://img.sofascore.com/api/v1/team/4423/image"
   },
   "teamB": {
-    "name": "Rockies",
-    "logo": "https://img.sofascore.com/api/v1/team/3628/image"
+    "name": "Packers",
+    "logo": "https://img.sofascore.com/api/v1/team/4420/image"
   },
   "visible": true,
   "priority": -1,
   "date": "13/09/2026",
-  "time": "16:10:00",
-  "links_metadata_path": "pro/TUxCLVRpZ2Vycy12cy1Sb2NraWVzMTc4OTI5MjU2Mzg4OA.txt",
+  "time": "20:25:00",
+  "links_metadata_path": "pro/TkZMLVZpa2luZ3MtdnMtUGFja2VyczE3ODkzMjk5NTc4Mjg.txt",
   "links": [
     {
-      "name": "Server 1",
-      "link": "https://edgestream1.pro/hls/sqdahach1ax.m3u8|referer=https://streame.center/",
+      "name": "Cricfy HD",
+      "link": "https://edgestream4.pro/hls/jkhazabcka36.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

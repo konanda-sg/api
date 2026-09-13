@@ -1,0 +1,28 @@
+{
+  "id": 605,
+  "order_index": 56,
+  "eventDetails": {
+    "category": "American football",
+    "eventName": "NFL",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark"
+  },
+  "teamA": {
+    "name": "Chiefs",
+    "logo": "https://img.sofascore.com/api/v1/team/4422/image"
+  },
+  "teamB": {
+    "name": "Broncos",
+    "logo": "https://img.sofascore.com/api/v1/team/4418/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "15/09/2026",
+  "time": "00:15:00",
+  "links_metadata_path": "pro/TkZMLUNoaWVmcy12cy1Ccm9uY29zMTc4OTMyOTk1NzgyOA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
