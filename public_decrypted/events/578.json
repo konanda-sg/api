@@ -1,66 +1,28 @@
 {
   "id": 578,
-  "order_index": 182,
+  "order_index": 76,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred Women",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
+    "category": "Football",
+    "eventName": "Liga Portugal Betclic",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
   },
   "teamA": {
-    "name": "BPH-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377202/image"
+    "name": "Famalicão",
+    "logo": "https://img.sofascore.com/api/v1/team/49531/image"
   },
   "teamB": {
-    "name": "SL-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377206/image"
+    "name": "Sporting",
+    "logo": "https://img.sofascore.com/api/v1/team/3001/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/08/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tQlBILVctdnMtU0wtVzE3ODYwNDM3NjQzNzU.txt",
+  "date": "13/09/2026",
+  "time": "19:30:00",
+  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUZhbWFsaWPDo28tdnMtU3BvcnRpbmcxNzg5MjgxMTMwNjgy.txt",
   "links": [
     {
-      "name": "WILLOW - AQ ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzewbuyorn/out/v1/6623baa5e7b94c128546859053548286/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "e6fdff00ac32feebe95be4085720db04:413de7de4ed7ea75215e0fcdf38fb811",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live ",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zzewbuyorn/out/v1/6623baa5e7b94c128546859053548286/cenc.mpd",
-      "scheme": 0,
-      "api": "e6fdff00ac32feebe95be4085720db04:413de7de4ed7ea75215e0fcdf38fb811",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy SPORT ",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX CRICKET ",
-      "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.190/hls/EPPP.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

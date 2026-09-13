@@ -1,45 +1,28 @@
 {
   "id": 563,
-  "order_index": 167,
+  "order_index": 61,
   "eventDetails": {
     "category": "Football",
-    "eventName": "EFL Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
   },
   "teamA": {
-    "name": "Bristol City",
-    "logo": "https://img.sofascore.com/api/v1/team/58/image"
+    "name": "Brest",
+    "logo": "https://img.sofascore.com/api/v1/team/1715/image"
   },
   "teamB": {
-    "name": "Walsall",
-    "logo": "https://img.sofascore.com/api/v1/team/26/image"
+    "name": "PSG",
+    "logo": "https://img.sofascore.com/api/v1/team/1644/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "06/08/2026",
+  "date": "13/09/2026",
   "time": "18:45:00",
-  "links_metadata_path": "pro/RUZMIEN1cC1CcmlzdG9sIENpdHktdnMtV2Fsc2FsbDE3ODYwMDA2OTQ2Nzc.txt",
+  "links_metadata_path": "pro/TGlndWUgMS1CcmVzdC12cy1QU0cxNzg5MjgxMTMwNjgy.txt",
   "links": [
     {
-      "name": "beIN ENGLISH - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "tokenApi": ""
-    },
-    {
-      "name": "CBS NETWORK",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD SERVER ",
-      "link": "https://live.vivo200.com/live/sd-1-4567181.m3u8?txSecret=acbde20fe3a3bc4bba4b1d9962ce11f1&txTime=6A74EAD4|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

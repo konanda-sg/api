@@ -1,35 +1,35 @@
 {
   "id": 583,
-  "order_index": 187,
+  "order_index": 81,
   "eventDetails": {
-    "category": "Rugby",
-    "eventName": "NRL",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark"
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Sydney",
-    "logo": "https://img.sofascore.com/api/v1/team/4264/image"
+    "name": "Sheffield Utd",
+    "logo": "https://img.sofascore.com/api/v1/team/15/image"
   },
   "teamB": {
-    "name": "Canterbury",
-    "logo": "https://img.sofascore.com/api/v1/team/4253/image"
+    "name": "Wolves",
+    "logo": "https://img.sofascore.com/api/v1/team/3/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/08/2026",
-  "time": "10:00:00",
-  "links_metadata_path": "pro/TlJMLVN5ZG5leS12cy1DYW50ZXJidXJ5MTc4NjA4NjY1NDU3OQ.txt",
+  "date": "13/09/2026",
+  "time": "11:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVNoZWZmaWVsZCBVdGQtdnMtV29sdmVzMTc4OTI4MTEzMDY4Mg.txt",
   "links": [
     {
-      "name": "FOX LEAGUE ",
-      "link": "https://messi.damitv.st/papi/tv/dlhd/820/playlist.m3u8?|Referer=https://ondemand.st/",
+      "name": "beIN ENGLISH FHD",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "",
+      "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
       "tokenApi": ""
     },
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.190/hls/bsss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "name": "Cricfy Live",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsfootball.m3u8",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

@@ -1,31 +1,28 @@
 {
   "id": 560,
-  "order_index": 164,
+  "order_index": 58,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
   },
   "teamA": {
-    "name": "Fiorentina",
-    "logo": "https://img.sofascore.com/api/v1/team/2693/image"
+    "name": "Lille",
+    "logo": "https://img.sofascore.com/api/v1/team/1643/image"
   },
   "teamB": {
-    "name": "Deportivo",
-    "logo": "https://img.sofascore.com/api/v1/team/2832/image"
+    "name": "Troyes",
+    "logo": "https://img.sofascore.com/api/v1/team/1652/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "06/08/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1GaW9yZW50aW5hLXZzLURlcG9ydGl2bzE3ODYwMDA2OTQ2Nzc.txt",
+  "date": "13/09/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/TGlndWUgMS1MaWxsZS12cy1Ucm95ZXMxNzg5MjgxMTMwNjgy.txt",
   "links": [
     {
-      "name": "SD SERVER",
-      "link": "http://193.47.62.190/hls/ssss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

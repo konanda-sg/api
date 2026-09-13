@@ -1,31 +1,28 @@
 {
   "id": 559,
-  "order_index": 163,
+  "order_index": 57,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "AS Monaco",
-    "logo": "https://img.sofascore.com/api/v1/team/1653/image"
+    "name": "Diriyah",
+    "logo": "https://img.sofascore.com/api/v1/team/853574/image"
   },
   "teamB": {
-    "name": "Getafe",
-    "logo": "https://img.sofascore.com/api/v1/team/2859/image"
+    "name": "Abha",
+    "logo": "https://img.sofascore.com/api/v1/team/168090/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "06/08/2026",
+  "date": "13/09/2026",
   "time": "18:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1BUyBNb25hY28tdnMtR2V0YWZlMTc4NjAwMDY5NDY3Nw.txt",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1EaXJpeWFoLXZzLUFiaGExNzg5MjgxMTMwNjgy.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://live.vivo200.com/live/sd-1-4603205.m3u8?txSecret=ecfe6b45be77ae8ebf43ca4b74a8a591&txTime=6A74E0C8|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

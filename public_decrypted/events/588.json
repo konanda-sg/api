@@ -1,31 +1,28 @@
 {
   "id": 588,
-  "order_index": 192,
+  "order_index": 86,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
   },
   "teamA": {
-    "name": "Fulham",
-    "logo": "https://img.sofascore.com/api/v1/team/43/image"
+    "name": "Galatasaray",
+    "logo": "https://img.sofascore.com/api/v1/team/3061/image"
   },
   "teamB": {
-    "name": "Crystal Palace",
-    "logo": "https://img.sofascore.com/api/v1/team/7/image"
+    "name": "Kocaelispor",
+    "logo": "https://img.sofascore.com/api/v1/team/3065/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/08/2026",
+  "date": "13/09/2026",
   "time": "17:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1GdWxoYW0tdnMtQ3J5c3RhbCBQYWxhY2UxNzg2MDg3MjAwNTEx.txt",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1HYWxhdGFzYXJheS12cy1Lb2NhZWxpc3BvcjE3ODkyODExMzA2ODI.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://chatgpt.hereisman.net/playlist/54297/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

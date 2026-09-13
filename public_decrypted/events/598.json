@@ -1,24 +1,24 @@
 {
-  "id": 593,
-  "order_index": 91,
+  "id": 598,
+  "order_index": 96,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Athletics",
-    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
+    "name": "Brewers",
+    "logo": "https://img.sofascore.com/api/v1/team/3630/image"
   },
   "teamB": {
-    "name": "Mariners",
-    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
+    "name": "Reds",
+    "logo": "https://img.sofascore.com/api/v1/team/3633/image"
   },
   "visible": true,
   "priority": -1,
   "date": "13/09/2026",
-  "time": "20:05:00",
-  "links_metadata_path": "pro/TUxCLUF0aGxldGljcy12cy1NYXJpbmVyczE3ODkyOTI1NjM4ODg.txt",
+  "time": "18:10:00",
+  "links_metadata_path": "pro/TUxCLUJyZXdlcnMtdnMtUmVkczE3ODkyOTI1NjM4ODg.txt",
   "links": [
     {
       "name": "Link 1",

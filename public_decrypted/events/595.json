@@ -1,28 +1,31 @@
 {
   "id": 595,
-  "order_index": 199,
+  "order_index": 93,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "VriendenLoterij Eredivisie",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Cambuur",
-    "logo": "https://img.sofascore.com/api/v1/team/2970/image"
+    "name": "Red Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
   },
   "teamB": {
-    "name": "Excelsior",
-    "logo": "https://img.sofascore.com/api/v1/team/2967/image"
+    "name": "Royals",
+    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/08/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtQ2FtYnV1ci12cy1FeGNlbHNpb3IxNzg2MDg3MjAwNTEx.txt",
+  "date": "13/09/2026",
+  "time": "17:35:00",
+  "links_metadata_path": "pro/TUxCLVJlZCBTb3gtdnMtUm95YWxzMTc4OTI5MjU2Mzg4OA.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy MLB",
+      "link": "https://edgestream7.pro/hls/eJmauBDCIf.m3u8|referer=https://streame.center/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

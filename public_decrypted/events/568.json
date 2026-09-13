@@ -1,38 +1,28 @@
 {
   "id": 568,
-  "order_index": 172,
+  "order_index": 66,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
   },
   "teamA": {
-    "name": "Mariners",
-    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
+    "name": "Tenerife",
+    "logo": "https://img.sofascore.com/api/v1/team/2822/image"
   },
   "teamB": {
-    "name": "Tigers",
-    "logo": "https://img.sofascore.com/api/v1/team/3648/image"
+    "name": "Leganés",
+    "logo": "https://img.sofascore.com/api/v1/team/2845/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "06/08/2026",
-  "time": "20:10:00",
-  "links_metadata_path": "pro/TUxCLU1hcmluZXJzLXZzLVRpZ2VyczE3ODYwMDA4MjAxOTM.txt",
+  "date": "13/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItVGVuZXJpZmUtdnMtTGVnYW7DqXMxNzg5MjgxMTMwNjgy.txt",
   "links": [
     {
-      "name": "Cricfy Live",
-      "link": "https://edgestream2.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "MLB LIVE ",
-      "link": "https://embedindia.st/embed/mlb/2026-08-06/det-sea",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -3,36 +3,26 @@
   "order_index": 54,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Liga Profesional de Fútbol",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark"
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
   },
   "teamA": {
-    "name": "Atlético Tucumán",
-    "logo": "https://img.sofascore.com/api/v1/team/36833/image"
+    "name": "Amed",
+    "logo": "https://img.sofascore.com/api/v1/team/207011/image"
   },
   "teamB": {
-    "name": "River Plate",
-    "logo": "https://img.sofascore.com/api/v1/team/3211/image"
+    "name": "Başakşehir",
+    "logo": "https://img.sofascore.com/api/v1/team/3086/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/09/2026",
-  "time": "20:30:00",
-  "links_metadata_path": "pro/TGlnYSBQcm9mZXNpb25hbCBkZSBGw7p0Ym9sLUF0bMOpdGljbyBUdWN1bcOhbi12cy1SaXZlciBQbGF0ZTE3ODkyNDM3NjQ4OTg.txt",
+  "date": "13/09/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1BbWVkLXZzLUJhxZ9ha8WfZWhpcjE3ODkyODExMzA2ODI.txt",
   "links": [
     {
-      "name": "Premier Sports - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX DEPORTES - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
