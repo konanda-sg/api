@@ -1,24 +1,24 @@
 {
-  "id": 609,
-  "order_index": 60,
+  "id": 607,
+  "order_index": 58,
   "eventDetails": {
     "category": "Football",
     "eventName": "Serie A",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
   },
   "teamA": {
-    "name": "Torino",
-    "logo": "https://img.sofascore.com/api/v1/team/2696/image"
+    "name": "Como",
+    "logo": "https://img.sofascore.com/api/v1/team/2704/image"
   },
   "teamB": {
-    "name": "Roma",
-    "logo": "https://img.sofascore.com/api/v1/team/2702/image"
+    "name": "Parma",
+    "logo": "https://img.sofascore.com/api/v1/team/2690/image"
   },
   "visible": true,
   "priority": -1,
   "date": "14/09/2026",
   "time": "16:30:00",
-  "links_metadata_path": "pro/U2VyaWUgQS1Ub3Jpbm8tdnMtUm9tYTE3ODkzNjg1MzgyOTQ.txt",
+  "links_metadata_path": "pro/U2VyaWUgQS1Db21vLXZzLVBhcm1hMTc4OTM2ODUzODI5NA.txt",
   "links": [
     {
       "name": "Link 1",
