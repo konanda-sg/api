@@ -28,6 +28,20 @@
       "tokenApi": ""
     },
     {
+      "name": "PARAMOUNT+ FHD",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/2kgjtoodkv/out/v1/37c098ea4b534d72bbc469d1af82bb31/e552b598-22a5-4976-8b66-b5918d53d3d4-cenc.mpd?aws_sessionId=ab194551-43e5-44f5-ae1a-73d2c83761ae|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "fe81647efc7f1887708b02d5d86ae3d8:82cb3deda4f5e4dd37eefc26191a8e28",
+      "tokenApi": ""
+    },
+    {
+      "name": "ESPN AR FHD",
+      "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+      "scheme": 0,
+      "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+      "tokenApi": ""
+    },
+    {
       "name": "SPORT 1 CZ - AQ",
       "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
       "scheme": 0,
@@ -47,6 +61,27 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-69.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "PARAMOUNT+ HD",
+      "link": "https://chatgpt.hereisman.net/playlist/56466/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.uu6611.com/live/hd-en-1-4549158.m3u8?txSecret=a14f6a3299e07b9181306b46dba390b9&txTime=6AA86037|Referer=https://player.up909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD SERVER",
+      "link": "http://193.47.62.44/hls/KCCCQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
