@@ -1,38 +1,28 @@
 {
   "id": 628,
-  "order_index": 232,
+  "order_index": 79,
   "eventDetails": {
     "category": "Football",
     "eventName": "EFL Cup",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
   },
   "teamA": {
-    "name": "Swansea",
-    "logo": "https://img.sofascore.com/api/v1/team/74/image"
+    "name": "Peterborough Utd",
+    "logo": "https://img.sofascore.com/api/v1/team/54/image"
   },
   "teamB": {
-    "name": "Birmingham",
-    "logo": "https://img.sofascore.com/api/v1/team/9/image"
+    "name": "Barnsley",
+    "logo": "https://img.sofascore.com/api/v1/team/23/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/08/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/RUZMIEN1cC1Td2Fuc2VhLXZzLUJpcm1pbmdoYW0xNzg2MTc1NzAzNjY0.txt",
+  "date": "15/09/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/RUZMIEN1cC1QZXRlcmJvcm91Z2ggVXRkLXZzLUJhcm5zbGV5MTc4OTQ1Mzc4ODE5OA.txt",
   "links": [
     {
-      "name": "SD SERVER",
-      "link": "http://193.47.62.191/hls/tpppa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy tv",
-      "link": "https://embedindia.st/embed/carabao-cup/2026-08-08/swa-bir",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

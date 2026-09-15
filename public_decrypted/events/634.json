@@ -1,30 +1,30 @@
 {
   "id": 634,
-  "order_index": 238,
+  "order_index": 85,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "AFC Champions League Elite",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark"
   },
   "teamA": {
-    "name": "Stuttgart",
-    "logo": "https://img.sofascore.com/api/v1/team/2677/image"
+    "name": "Ratchaburi",
+    "logo": "https://img.sofascore.com/api/v1/team/85743/image"
   },
   "teamB": {
-    "name": "Everton",
-    "logo": "https://img.sofascore.com/api/v1/team/48/image"
+    "name": "Port",
+    "logo": "https://img.sofascore.com/api/v1/team/41537/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/08/2026",
-  "time": "15:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1TdHV0dGdhcnQtdnMtRXZlcnRvbjE3ODYxNzU3MDM2NjU.txt",
+  "date": "15/09/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/QUZDIENoYW1waW9ucyBMZWFndWUgRWxpdGUtUmF0Y2hhYnVyaS12cy1Qb3J0MTc4OTQ1Mzg1MDQ0NQ.txt",
   "links": [
     {
-      "name": "CBS SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "name": "CricfyTV.Net",
+      "link": "https://live.uu6611.com/live/hd-en-1-4621487.m3u8?txSecret=2636afccb779e7b32463d611c81fe15b&txTime=6AA9570E|Referer=https://player.up909.com/",
       "scheme": 0,
-      "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+      "api": "",
       "tokenApi": ""
     }
   ]

@@ -1,63 +1,28 @@
 {
   "id": 637,
-  "order_index": 241,
+  "order_index": 88,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "AFC Champions League Elite",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark"
   },
   "teamA": {
-    "name": "Chelsea",
-    "logo": "https://img.sofascore.com/api/v1/team/38/image"
+    "name": "Daejeon Hana",
+    "logo": "https://img.sofascore.com/api/v1/team/7645/image"
   },
   "teamB": {
-    "name": "Milan",
-    "logo": "https://img.sofascore.com/api/v1/team/2692/image"
+    "name": "Kyoto Sanga",
+    "logo": "https://img.sofascore.com/api/v1/team/3149/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/08/2026",
-  "time": "12:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1DaGVsc2VhLXZzLU1pbGFuMTc4NjE3NTcwMzY2NQ.txt",
+  "date": "15/09/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/QUZDIENoYW1waW9ucyBMZWFndWUgRWxpdGUtRGFlamVvbiBIYW5hLXZzLUt5b3RvIFNhbmdhMTc4OTQ1Mzg1MDQ0NQ.txt",
   "links": [
     {
-      "name": "FOX DEPORTES",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-      "tokenApi": ""
-    },
-    {
-      "name": "CBS SPORTS HD",
-      "link": "https://saka.kpores.ru/live/cbs-sports-network.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FHD SERVER",
-      "link": "https://tedesco.paradilux.store/cbssn.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SportTV HD [PT]",
-      "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SportyNET HD",
-      "link": "https://rdcstream.life/live/sportynet/index.m3u8?|Referer=https://bolodechocolate.fit/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD SERVER",
-      "link": "https://live2.jxa76.com/live/sd-6MwdLFVM7Qf8CkzCC3_540p.m3u8?txSecret=4ddc2063cd8a7484ea6f6998dd5a877b&txTime=19FE28B4C05",
+      "name": "CricfyTV.Net",
+      "link": "https://live.uu6611.com/live/hd-en-1-4621522.m3u8?txSecret=23f724dfbe23e9b14514e67ff216c593&txTime=6AA9572A|Referer=https://player.up909.com/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

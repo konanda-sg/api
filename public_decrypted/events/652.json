@@ -1,14 +1,14 @@
 {
   "id": 652,
-  "order_index": 256,
+  "order_index": 103,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Yankees",
-    "logo": "https://img.sofascore.com/api/v1/team/3654/image"
+    "name": "Cubs",
+    "logo": "https://img.sofascore.com/api/v1/team/3627/image"
   },
   "teamB": {
     "name": "Braves",
@@ -16,30 +16,13 @@
   },
   "visible": true,
   "priority": -1,
-  "date": "08/08/2026",
-  "time": "19:05:00",
-  "links_metadata_path": "pro/TUxCLVlhbmtlZXMtdnMtQnJhdmVzMTc4NjE3NTk2MTI3NA.txt",
+  "date": "15/09/2026",
+  "time": "23:40:00",
+  "links_metadata_path": "pro/TUxCLUN1YnMtdnMtQnJhdmVzMTc4OTQ1MzkyMDQ5Mg.txt",
   "links": [
     {
       "name": "Link 1",
-      "link": "https://chatgpt.hereisman.net/playlist/54353/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net/&Origin=https://gooz.aapmains.net/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy HD ",
-      "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "MLB LIVE [FHD]",
-      "link": "https://embedindia.st/embed/mlb/2026-08-08/atl-nyy",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

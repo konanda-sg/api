@@ -1,38 +1,28 @@
 {
   "id": 627,
-  "order_index": 231,
+  "order_index": 78,
   "eventDetails": {
     "category": "Football",
-    "eventName": "EFL Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
   },
   "teamA": {
-    "name": "Derby",
-    "logo": "https://img.sofascore.com/api/v1/team/27/image"
+    "name": "Alavés",
+    "logo": "https://img.sofascore.com/api/v1/team/2885/image"
   },
   "teamB": {
-    "name": "Lincoln",
-    "logo": "https://img.sofascore.com/api/v1/team/92/image"
+    "name": "Valencia",
+    "logo": "https://img.sofascore.com/api/v1/team/2828/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/08/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/RUZMIEN1cC1EZXJieS12cy1MaW5jb2xuMTc4NjE3NTcwMzY2NA.txt",
+  "date": "15/09/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/TGFMaWdhLUFsYXbDqXMtdnMtVmFsZW5jaWExNzg5NDUzNzg4MTk4.txt",
   "links": [
     {
-      "name": "SD SERVER",
-      "link": "http://193.47.62.193/hls/SIIIA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy HD ",
-      "link": "https://embedindia.st/embed/carabao-cup/2026-08-08/der-lcn",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

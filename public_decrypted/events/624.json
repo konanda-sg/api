@@ -1,24 +1,24 @@
 {
   "id": 624,
-  "order_index": 228,
+  "order_index": 75,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "EFL Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
   },
   "teamA": {
-    "name": "Köln",
-    "logo": "https://img.sofascore.com/api/v1/team/2671/image"
+    "name": "West Ham",
+    "logo": "https://img.sofascore.com/api/v1/team/37/image"
   },
   "teamB": {
-    "name": "Real Sociedad",
-    "logo": "https://img.sofascore.com/api/v1/team/2824/image"
+    "name": "Fulham",
+    "logo": "https://img.sofascore.com/api/v1/team/43/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/08/2026",
-  "time": "13:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Lw7Zsbi12cy1SZWFsIFNvY2llZGFkMTc4NjA5NDAxNjk0Mg.txt",
+  "date": "15/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/RUZMIEN1cC1XZXN0IEhhbS12cy1GdWxoYW0xNzg5NDUzNzg4MTk4.txt",
   "links": [
     {
       "name": "Link 1",

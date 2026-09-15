@@ -1,28 +1,31 @@
 {
   "id": 636,
-  "order_index": 240,
+  "order_index": 87,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "AFC Champions League Elite",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark"
   },
   "teamA": {
-    "name": "Köln",
-    "logo": "https://img.sofascore.com/api/v1/team/2671/image"
+    "name": "Gamba Osaka",
+    "logo": "https://img.sofascore.com/api/v1/team/3138/image"
   },
   "teamB": {
-    "name": "Real Sociedad",
-    "logo": "https://img.sofascore.com/api/v1/team/2824/image"
+    "name": "Công An Hà Nội",
+    "logo": "https://img.sofascore.com/api/v1/team/193616/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/08/2026",
-  "time": "13:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Lw7Zsbi12cy1SZWFsIFNvY2llZGFkMTc4NjE3NTcwMzY2NQ.txt",
+  "date": "15/09/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/QUZDIENoYW1waW9ucyBMZWFndWUgRWxpdGUtR2FtYmEgT3Nha2EtdnMtQ8O0bmcgQW4gSMOgIE7hu5lpMTc4OTQ1Mzg1MDQ0NQ.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "CricfyTV.Net",
+      "link": "https://live.uu6611.com/live/hd-en-1-4621503.m3u8?txSecret=88a6bbb779f95b45d5f03a64554b26fb&txTime=6AA956E4|Referer=https://player.up909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

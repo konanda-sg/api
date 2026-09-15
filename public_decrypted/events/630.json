@@ -1,38 +1,28 @@
 {
   "id": 630,
-  "order_index": 234,
+  "order_index": 81,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
   },
   "teamA": {
-    "name": "Tottenham",
-    "logo": "https://img.sofascore.com/api/v1/team/33/image"
+    "name": "Rayo Vallecano",
+    "logo": "https://img.sofascore.com/api/v1/team/2818/image"
   },
   "teamB": {
-    "name": "Getafe",
-    "logo": "https://img.sofascore.com/api/v1/team/2859/image"
+    "name": "Espanyol",
+    "logo": "https://img.sofascore.com/api/v1/team/2814/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/08/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Ub3R0ZW5oYW0tdnMtR2V0YWZlMTc4NjE3NTcwMzY2NQ.txt",
+  "date": "15/09/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/TGFMaWdhLVJheW8gVmFsbGVjYW5vLXZzLUVzcGFueW9sMTc4OTQ1Mzc4ODE5OQ.txt",
   "links": [
     {
-      "name": "SD SERVER",
-      "link": "http://193.47.62.192/hls/bnnnAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy tv",
-      "link": "https://embedindia.st/embed/friendly/2026-08-08/tot-get",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

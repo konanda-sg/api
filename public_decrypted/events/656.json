@@ -1,24 +1,24 @@
 {
   "id": 656,
-  "order_index": 260,
+  "order_index": 107,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "Caribbean Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
   },
   "teamA": {
-    "name": "Diamondbacks",
-    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
+    "name": "BT",
+    "logo": "https://img.sofascore.com/api/v1/team/187795/image"
   },
   "teamB": {
-    "name": "Dodgers",
-    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
+    "name": "JK",
+    "logo": "https://img.sofascore.com/api/v1/team/1220595/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/08/2026",
-  "time": "00:10:00",
-  "links_metadata_path": "pro/TUxCLURpYW1vbmRiYWNrcy12cy1Eb2RnZXJzMTc4NjE3NTk2MTI3NA.txt",
+  "date": "16/09/2026",
+  "time": "23:00:00",
+  "links_metadata_path": "pro/Q2FyaWJiZWFuIFByZW1pZXIgTGVhZ3VlLUJULXZzLUpLMTc4OTQ1NDAwMjEzMA.txt",
   "links": [
     {
       "name": "Link 1",

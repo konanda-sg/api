@@ -1,42 +1,28 @@
 {
   "id": 632,
-  "order_index": 236,
+  "order_index": 83,
   "eventDetails": {
     "category": "Football",
-    "eventName": "EFL Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+    "eventName": "AFC Champions League Elite",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark"
   },
   "teamA": {
-    "name": "QPR",
-    "logo": "https://img.sofascore.com/api/v1/team/1/image"
+    "name": "Kashima",
+    "logo": "https://img.sofascore.com/api/v1/team/3134/image"
   },
   "teamB": {
-    "name": "Millwall",
-    "logo": "https://img.sofascore.com/api/v1/team/25/image"
+    "name": "Newcastle Jets",
+    "logo": "https://img.sofascore.com/api/v1/team/2934/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/08/2026",
-  "time": "13:00:00",
-  "links_metadata_path": "pro/RUZMIEN1cC1RUFItdnMtTWlsbHdhbGwxNzg2MTc1NzAzNjY1.txt",
+  "date": "15/09/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/QUZDIENoYW1waW9ucyBMZWFndWUgRWxpdGUtS2FzaGltYS12cy1OZXdjYXN0bGUgSmV0czE3ODk0NTM4NTA0NDU.txt",
   "links": [
     {
-      "name": "beIN ENGLISH",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-      "tokenApi": ""
-    },
-    {
-      "name": "SD SERVER",
-      "link": "http://193.47.62.190/hls/rooo.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy LIVE [FHD]",
-      "link": "https://embedindia.st/embed/carabao-cup/2026-08-08/qpr-mil",
+      "name": "CricfyTV.Net",
+      "link": "https://live.uu6611.com/live/hd-en-1-4621511.m3u8?txSecret=02c177a5d5fa2a376f9675948dfb153e&txTime=6AA95741|Referer=https://player.up909.com/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
