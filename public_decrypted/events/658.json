@@ -1,28 +1,31 @@
 {
   "id": 658,
-  "order_index": 262,
+  "order_index": 109,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "White Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
+    "name": "Middlesbrough",
+    "logo": "https://img.sofascore.com/api/v1/team/36/image"
   },
   "teamB": {
-    "name": "Guardians",
-    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
+    "name": "Millwall",
+    "logo": "https://img.sofascore.com/api/v1/team/25/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/08/2026",
-  "time": "23:15:00",
-  "links_metadata_path": "pro/TUxCLVdoaXRlIFNveC12cy1HdWFyZGlhbnMxNzg2MTc1OTYxMjc0.txt",
+  "date": "15/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLU1pZGRsZXNicm91Z2gtdnMtTWlsbHdhbGwxNzg5NDk3NTc1MzU1.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy Live",
+      "link": "https://netanjahu.hls.st/t/62d34eeed644df44aa5e224b21e5273f/index.m3u8|referer=https://iplayer.is/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/RUZMIEN1cC1XZXN0IEhhbS12cy1GdWxoYW0xNzg5NDUzNzg4MTk4.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy Server",
+      "link": "https://netanjahu.hls.st/t/62d34eeed644df44aa5e224b21e5273f/index.m3u8|referer=https://iplayer.is/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
