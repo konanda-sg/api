@@ -21,11 +21,35 @@
   "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLU1pZGRsZXNicm91Z2gtdnMtTWlsbHdhbGwxNzg5NDk3NTc1MzU1.txt",
   "links": [
     {
+      "name": "PARAMOUNT+ FHD",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/8ui1kovgor/out/v1/183bf1c5f89c4eb894bc5a4f5eb4baa2/39dd0844-2d89-42e8-859a-12688112e1d6-cenc.mpd?aws_sessionId=71555df8-896f-412e-8dc5-50f0fdf2bede|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "af485057eaf6985c9c7f832bc8c205de:71e1064fd583e9182a3f9044922251bb",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.uu6611.com/live/sd-1-4563567.m3u8?txSecret=eb30028ce0116ad2ed405703cc58db39&txTime=6AA9DB90|Referer=https://player.up909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
       "name": "Cricfy Live",
       "link": "https://netanjahu.hls.st/t/62d34eeed644df44aa5e224b21e5273f/index.m3u8|referer=https://iplayer.is/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.59/hls/f444A.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
     }
   ]
 }
